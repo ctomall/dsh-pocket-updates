@@ -1,9 +1,9 @@
 {
-  "version": "0.9.3",
-  "versionCode": 903,
+  "version": "0.9.4",
+  "versionCode": 904,
   "size": 1222832,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.9.3/dsh-pocket-0.9.3.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.9.3.apk",
-  "sha256": "65ee1dc26033753dce29d41217b82284fb8c7e05ee3f1e87949285de37872a67",
-  "notes": ["发消息不再重复气泡；运行中显示停止键"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.9.4/dsh-pocket-0.9.4.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.9.4.apk",
+  "sha256": "65476478c243b279d1149db1e93ded7c90f25d197f6207cc6547a6661b06dcf9",
+  "notes": ["中止后停止键复位；turn/end 驱动 busy"]
 }
