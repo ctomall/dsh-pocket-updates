@@ -1,9 +1,9 @@
 {
-  "version": "0.10.13",
-  "versionCode": 1013,
+  "version": "0.10.14",
+  "versionCode": 1014,
   "size": 1239216,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.13/dsh-pocket-0.10.13.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.13.apk",
-  "sha256": "5c48fd73de358c7faff607ae6befd0afeeb3c93d609d46e838e067d7211b160b",
-  "notes": ["C1 插件页接 Loader 实时清单（pluginInventory/list，263 条真实条目）"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.14/dsh-pocket-0.10.14.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.14.apk",
+  "sha256": "3edf4cf19cddef5eb5cbe2e14ca4f5d04e01e1c681e4cabe6c421a2860da92eb",
+  "notes": ["C3 专家中心接真名册（/plugin-api/expert-center/rpc，3 位专家）；插件页/专家页不再显示未接入占位"]
 }
