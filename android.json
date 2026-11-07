@@ -1,9 +1,9 @@
 {
-  "version": "0.7.2",
-  "versionCode": 702,
+  "version": "0.7.3",
+  "versionCode": 703,
   "size": 1198256,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.7.2/dsh-pocket-0.7.2.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.7.2.apk",
-  "sha256": "797fc468e81afe7b86a27981c254005d771128c11f81085cc86779f6e9b9c447",
-  "notes": ["A14 子代理会话：明确提示而非空白线程"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.7.3/dsh-pocket-0.7.3.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.7.3.apk",
+  "sha256": "a8becb10b95dfc514d876ebcef71796bf104c054ada8da24fa2079a9b759260f",
+  "notes": ["A10 停止生成：session/cancel，发送键变停止键"]
 }
