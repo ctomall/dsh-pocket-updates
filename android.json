@@ -1,9 +1,9 @@
 {
-  "version": "0.10.1",
-  "versionCode": 1001,
+  "version": "0.10.3",
+  "versionCode": 1003,
   "size": 1226928,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.1/dsh-pocket-0.10.1.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.1.apk",
-  "sha256": "d06a6f03d0664f1deecfd034d648ef334453697e8fdc54b1dd77e69a1419bdef",
-  "notes": ["发送失败可见并可重试"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.3/dsh-pocket-0.10.3.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.3.apk",
+  "sha256": "c7f4cd4b89312a87326989ffe59a01dd72a658a7db34cf475fd0ab964cca6b92",
+  "notes": ["空会话态重设计；空会话不再显示翻页入口"]
 }
