@@ -1,9 +1,9 @@
 {
-  "version": "0.8.4",
-  "versionCode": 804,
-  "size": 1210544,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.8.4/dsh-pocket-0.8.4.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.8.4.apk",
-  "sha256": "432dc4f8885f98d520ad29bb3b130021b481bc91aedc76eda74fc45f99ae1587",
-  "notes": ["A14 子代理会话：durable parent address"]
+  "version": "0.8.5",
+  "versionCode": 805,
+  "size": 1214640,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.8.5/dsh-pocket-0.8.5.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.8.5.apk",
+  "sha256": "3ac2c13bcf3b55b8a74c706e85ab4fa43767a9ffb8ccc48dda3d972b79467e9b",
+  "notes": ["B5/B6 置顶与归档：workspace/pinSession + archiveSession"]
 }
