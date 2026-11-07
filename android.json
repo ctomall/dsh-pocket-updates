@@ -1,9 +1,9 @@
 {
-  "version": "0.10.11",
-  "versionCode": 1011,
-  "size": 1235120,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.11/dsh-pocket-0.10.11.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.11.apk",
-  "sha256": "43aa95e24cbdbd4da7f2720227dd2195499e294199421d0ec322dd4bbe3d6f77",
-  "notes": ["Optimize 原地替换：回复抽回输入框并剥掉前言"]
+  "version": "0.10.12",
+  "versionCode": 1012,
+  "size": 1239216,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.12/dsh-pocket-0.10.12.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.12.apk",
+  "sha256": "847067c56bb3ffa1c21e6dba2dd558447c756d275314d3df212fe8c1bea1fd15",
+  "notes": ["深链 --es open + 冷启动自动过设备门禁（附件缓存写入就绪，回显未启用）"]
 }
