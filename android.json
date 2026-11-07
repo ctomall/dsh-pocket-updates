@@ -1,9 +1,9 @@
 {
-  "version": "0.6.0",
-  "versionCode": 600,
+  "version": "0.6.1",
+  "versionCode": 601,
   "size": 1185968,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.6.0/dsh-pocket-0.6.0.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.6.0.apk",
-  "sha256": "e9dd49405005eda5dfe9b414b654ed0a82474954306d6fd8563e462abcda2538",
-  "notes": ["A1 消息操作行：复制到剪贴板 + 时间 + token"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.6.1/dsh-pocket-0.6.1.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.6.1.apk",
+  "sha256": "ea42853e0b599a037890eefddbd1115e32c1b463720c31b0b04368776bfe66fd",
+  "notes": ["A2 会话底部状态条：轮次/步数/token/上下文占用"]
 }
