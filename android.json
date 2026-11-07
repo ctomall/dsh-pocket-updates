@@ -1,9 +1,9 @@
 {
-  "version": "0.10.7",
-  "versionCode": 1007,
-  "size": 1231024,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.7/dsh-pocket-0.10.7.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.7.apk",
-  "sha256": "2c893e02ebf7d379abfe02338a1b9bec85546c6ce33e033fd3219a47aa34cc6d",
-  "notes": ["Optimize 按钮真实可用：草稿交给 agent 调 optimize_prompt 改写"]
+  "version": "0.10.8",
+  "versionCode": 1008,
+  "size": 1235120,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.8/dsh-pocket-0.10.8.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.8.apk",
+  "sha256": "291ce4d482c2836f678325c3a1083781840af011cb02c0e0ef59d40706397569",
+  "notes": ["语音输入：RecognizerIntent + zh-CN，识别结果回填输入框"]
 }
