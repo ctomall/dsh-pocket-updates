@@ -1,11 +1,9 @@
 {
-  "version": "0.4.3",
-  "versionCode": 403,
+  "version": "0.4.4",
+  "versionCode": 404,
   "size": 1034248,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.4.3/dsh-pocket-0.4.3.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.4.3.apk",
-  "sha256": "3abdc56208fbbdba050b45b4cb7ad3ffce0a70b3b4bdc97b92217ce3bd7d5cb4",
-  "notes": [
-    "分发主源改为 GitHub Release 资产（objects.githubusercontent.com 实测可达）"
-  ]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.4.4/dsh-pocket-0.4.4.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.4.4.apk",
+  "sha256": "56806d4068c9c487812bc6124618e00284f6c7e85a5b5dc617e3277592911e03",
+  "notes": ["检查更新显示当前读取的来源"]
 }
