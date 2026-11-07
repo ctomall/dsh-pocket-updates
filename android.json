@@ -1,9 +1,9 @@
 {
-  "version": "0.9.6",
-  "versionCode": 906,
+  "version": "0.9.7",
+  "versionCode": 907,
   "size": 1222832,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.9.6/dsh-pocket-0.9.6.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.9.6.apk",
-  "sha256": "b5e269c6977d034ec7a418f8b74680660afe75fd97b7e1debb31e64cf2a44b97",
-  "notes": ["审批卡显示命令与工具名"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.9.7/dsh-pocket-0.9.7.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.9.7.apk",
+  "sha256": "3c319be7d0313cfdc7efbb60a0735de55a77ed347e6a90a052579b754a210cff",
+  "notes": ["计划审批按 plan-review 单独渲染"]
 }
