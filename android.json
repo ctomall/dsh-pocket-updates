@@ -1,9 +1,9 @@
 {
-  "version": "0.7.1",
-  "versionCode": 701,
+  "version": "0.7.2",
+  "versionCode": 702,
   "size": 1198256,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.7.1/dsh-pocket-0.7.1.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.7.1.apk",
-  "sha256": "67416d6e53f783dca1e0b44710f579d69d8b51a15ef91f04cf0ecf38a9e74aed",
-  "notes": ["A5 @ 引用：workspaceFiles/list"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.7.2/dsh-pocket-0.7.2.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.7.2.apk",
+  "sha256": "797fc468e81afe7b86a27981c254005d771128c11f81085cc86779f6e9b9c447",
+  "notes": ["A14 子代理会话：明确提示而非空白线程"]
 }
