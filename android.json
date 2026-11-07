@@ -1,9 +1,9 @@
 {
-  "version": "0.9.2",
-  "versionCode": 902,
+  "version": "0.9.3",
+  "versionCode": 903,
   "size": 1222832,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.9.2/dsh-pocket-0.9.2.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.9.2.apk",
-  "sha256": "7e2f02a2b016853bb6fb6bf79176721e20bfde928c9aba3136fc98168397f870",
-  "notes": ["子代理会话按 kind=subagent 取消息"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.9.3/dsh-pocket-0.9.3.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.9.3.apk",
+  "sha256": "65ee1dc26033753dce29d41217b82284fb8c7e05ee3f1e87949285de37872a67",
+  "notes": ["发消息不再重复气泡；运行中显示停止键"]
 }
