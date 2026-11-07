@@ -1,9 +1,9 @@
 {
-  "version": "0.10.0",
-  "versionCode": 1000,
+  "version": "0.10.1",
+  "versionCode": 1001,
   "size": 1226928,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.0/dsh-pocket-0.10.0.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.0.apk",
-  "sha256": "53744994912e27e113fc6fbe30caa0e5f88e6fba408a2a4075fc51310741c79d",
-  "notes": ["工具卡可展开原始载荷"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.1/dsh-pocket-0.10.1.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.1.apk",
+  "sha256": "d06a6f03d0664f1deecfd034d648ef334453697e8fdc54b1dd77e69a1419bdef",
+  "notes": ["发送失败可见并可重试"]
 }
