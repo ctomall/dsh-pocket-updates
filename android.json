@@ -1,9 +1,9 @@
 {
-  "version": "0.8.7",
-  "versionCode": 807,
+  "version": "0.8.8",
+  "versionCode": 808,
   "size": 1218736,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.8.7/dsh-pocket-0.8.7.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.8.7.apk",
-  "sha256": "ceb6f33a0c4bc918607b8bff63793fb55aff7c4698a5f97b0990e380b0b6821b",
-  "notes": ["图标无障碍描述 + 可复用审计脚本"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.8.8/dsh-pocket-0.8.8.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.8.8.apk",
+  "sha256": "91ad910833130939ffc3e8cb1b9024db16ac71f3f0d3e6670e53e9bf505c1e26",
+  "notes": ["配对失败给出可读原因，而非裸 HTTP 状态码"]
 }
