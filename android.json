@@ -1,9 +1,9 @@
 {
-  "version": "0.7.4",
-  "versionCode": 704,
-  "size": 1198256,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.7.4/dsh-pocket-0.7.4.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.7.4.apk",
-  "sha256": "1e6830bbb120c71f9357bbfc8d7f0a8dce18408b1ffcec647207e67e9d22a703",
-  "notes": ["A14 子代理会话：解析 origin/parentSessionId，侧栏标记"]
+  "version": "0.8.0",
+  "versionCode": 800,
+  "size": 1202352,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.8.0/dsh-pocket-0.8.0.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.8.0.apk",
+  "sha256": "6c369d24597b9826d0f573e649b26be9258f153948ad980ca4a4eac8fae6764d",
+  "notes": ["C1-C6 六个导航页骨架 + 路由"]
 }
