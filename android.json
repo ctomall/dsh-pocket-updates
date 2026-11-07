@@ -1,8 +1,8 @@
 {
-  "version": "0.1.9",
-  "versionCode": 10,
+  "version": "0.2.0",
+  "versionCode": 200,
   "size": 1009672,
-  "url": "https://raw.githubusercontent.com/ctomall/dsh-pocket-updates/main/dsh-pocket-0.1.9.apk",
-  "sha256": "5a40fd864c61a35564079ba545db359136853b3385ebcd3dcde3c2ab81ee4c3c",
-  "notes": ["git 通道：清单与安装包都在仓库里"]
+  "url": "https://raw.githubusercontent.com/ctomall/dsh-pocket-updates/main/dsh-pocket-0.2.0.apk",
+  "sha256": "d01fbd34f295242f2b6bba5ca59131399244b7e54ae192c6e1d94fccad17fcdc",
+  "notes": ["Git 一键升级通道：清单与包同在仓库"]
 }
