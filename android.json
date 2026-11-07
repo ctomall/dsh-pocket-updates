@@ -1,9 +1,9 @@
 {
-  "version": "0.8.0",
-  "versionCode": 800,
-  "size": 1202352,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.8.0/dsh-pocket-0.8.0.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.8.0.apk",
-  "sha256": "6c369d24597b9826d0f573e649b26be9258f153948ad980ca4a4eac8fae6764d",
-  "notes": ["C1-C6 六个导航页骨架 + 路由"]
+  "version": "0.8.1",
+  "versionCode": 801,
+  "size": 1206448,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.8.1/dsh-pocket-0.8.1.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.8.1.apk",
+  "sha256": "f8ae42cbd0262f9a206f1ba585ead3772d1c82c6db91f1f3685f4ee4301b4473",
+  "notes": ["B4 重命名会话：session/rename"]
 }
