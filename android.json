@@ -1,9 +1,9 @@
 {
-  "version": "0.8.2",
-  "versionCode": 802,
+  "version": "0.8.3",
+  "versionCode": 803,
   "size": 1210544,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.8.2/dsh-pocket-0.8.2.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.8.2.apk",
-  "sha256": "5f64fc9e3b65c57b84e3c1ae4b02dd01e31bb144233649ff2a73b1a617b6dcf4",
-  "notes": ["修复：新会话按钮此前只刷新列表，现在真建会话"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.8.3/dsh-pocket-0.8.3.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.8.3.apk",
+  "sha256": "c75c33c4222f026f87e4cf37559781852b43a7418b7353c1dc7a89786f00f583",
+  "notes": ["A16 历史分页：向上加载更早消息"]
 }
