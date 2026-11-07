@@ -1,8 +1,1 @@
-{
-  "version": "0.2.0",
-  "versionCode": 200,
-  "size": 1009672,
-  "url": "https://raw.githubusercontent.com/ctomall/dsh-pocket-updates/main/dsh-pocket-0.2.0.apk",
-  "sha256": "d01fbd34f295242f2b6bba5ca59131399244b7e54ae192c6e1d94fccad17fcdc",
-  "notes": ["Git 一键升级通道：清单与包同在仓库"]
-}
+{"version":"0.2.5","versionCode":205,"size":1021960,"url":"https://raw.githubusercontent.com/ctomall/dsh-pocket-updates/main/dsh-pocket-0.2.5.apk","sha256":"919c1f19cddf768f4732866342ecafc9e080436e2a334fc38dec4de74033e908","notes":["点击即时反馈 + 45s 看门狗 + 双源回退"]}
