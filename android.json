@@ -1,9 +1,9 @@
 {
-  "version": "0.6.2",
-  "versionCode": 602,
-  "size": 1190064,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.6.2/dsh-pocket-0.6.2.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.6.2.apk",
-  "sha256": "b4e737da5dd66a07d82e055ba9f4bc6562dae11a748c3ed52289aa70ea26eef6",
-  "notes": ["D6 提问卡：userQuestions 渲染 + 选择 + 提交"]
+  "version": "0.6.3",
+  "versionCode": 603,
+  "size": 1194160,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.6.3/dsh-pocket-0.6.3.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.6.3.apk",
+  "sha256": "d57880790b5992d5ef2618c06cb3c7e0a1ceb278e9751aeaef6b330f06035778",
+  "notes": ["D3+D4  审批/计划卡，/result 回复"]
 }
