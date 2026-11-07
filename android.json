@@ -1,9 +1,9 @@
 {
-  "version": "0.9.0",
-  "versionCode": 900,
+  "version": "0.9.1",
+  "versionCode": 901,
   "size": 1222832,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.9.0/dsh-pocket-0.9.0.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.9.0.apk",
-  "sha256": "4fa0e992cd30973f2fd2684a265ae01cc85030de9d9679a368405af2ea5e2a74",
-  "notes": ["状态条/待办/审批/提问卡从首页移入会话页（此前整块错放）"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.9.1/dsh-pocket-0.9.1.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.9.1.apk",
+  "sha256": "5e7133b423bee5fcee163f04de0324fce22280a9fc17e3d6b9047d326df429c3",
+  "notes": ["首页不再显示上一会话的状态条与卡片"]
 }
