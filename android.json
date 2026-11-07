@@ -1,9 +1,9 @@
 {
-  "version": "0.10.9",
-  "versionCode": 1009,
+  "version": "0.10.10",
+  "versionCode": 1010,
   "size": 1235120,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.9/dsh-pocket-0.10.9.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.9.apk",
-  "sha256": "3ec30f3a0720c0adc3bf234d0081b262e4844a98908d3deb14a7e03d6050a0c7",
-  "notes": ["C5 服务器监控接真数据（网关新增 /api/mobile/v1/monitor）"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.10/dsh-pocket-0.10.10.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.10.apk",
+  "sha256": "6853be327dadef1b6e75b1fb133bf23c3f1a0188af4b4288c6dc6605633cc617",
+  "notes": ["C6 更多页：版本/设备/地址/会话数/已配对设备"]
 }
