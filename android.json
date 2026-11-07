@@ -1,9 +1,9 @@
 {
-  "version": "0.10.10",
-  "versionCode": 1010,
+  "version": "0.10.11",
+  "versionCode": 1011,
   "size": 1235120,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.10/dsh-pocket-0.10.10.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.10.apk",
-  "sha256": "6853be327dadef1b6e75b1fb133bf23c3f1a0188af4b4288c6dc6605633cc617",
-  "notes": ["C6 更多页：版本/设备/地址/会话数/已配对设备"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.11/dsh-pocket-0.10.11.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.11.apk",
+  "sha256": "43aa95e24cbdbd4da7f2720227dd2195499e294199421d0ec322dd4bbe3d6f77",
+  "notes": ["Optimize 原地替换：回复抽回输入框并剥掉前言"]
 }
