@@ -1,1 +1,9 @@
-{"version":"0.4.3","versionCode":403,"size":1034248,"url":"https://raw.githubusercontent.com/ctomall/dsh-pocket-updates/main/dsh-pocket-0.4.3.apk","fallback":"https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.4.3.apk","sha256":"3abdc56208fbbdba050b45b4cb7ad3ffce0a70b3b4bdc97b92217ce3bd7d5cb4","notes":["侧栏加「添加设备」入口"]}
+{
+  "version": "0.4.3",
+  "versionCode": 403,
+  "size": 1034248,
+  "url": "https://raw.githubusercontent.com/ctomall/dsh-pocket-updates/main/dsh-pocket-0.4.3.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.4.3.apk",
+  "sha256": "3abdc56208fbbdba050b45b4cb7ad3ffce0a70b3b4bdc97b92217ce3bd7d5cb4",
+  "notes": ["原子发布：包先就位并校验，清单最后写"]
+}
