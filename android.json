@@ -1,9 +1,9 @@
 {
-  "version": "0.9.7",
-  "versionCode": 907,
+  "version": "0.9.8",
+  "versionCode": 908,
   "size": 1222832,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.9.7/dsh-pocket-0.9.7.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.9.7.apk",
-  "sha256": "3c319be7d0313cfdc7efbb60a0735de55a77ed347e6a90a052579b754a210cff",
-  "notes": ["计划审批按 plan-review 单独渲染"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.9.8/dsh-pocket-0.9.8.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.9.8.apk",
+  "sha256": "9cbe0fa053abcea317069fc7770c987e87c3091b13e4c257e06ac3c01d3f8c98",
+  "notes": ["自动化任务页接入 schedule/list 真实数据"]
 }
