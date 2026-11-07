@@ -1,9 +1,9 @@
 {
-  "version": "0.4.8",
-  "versionCode": 408,
+  "version": "0.4.9",
+  "versionCode": 409,
   "size": 1181872,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.4.8/dsh-pocket-0.4.8.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.4.8.apk",
-  "sha256": "9242742c343375974bee468dc0992bf7b5ac7c2dcf7411139d05a2f1cc3ad04f",
-  "notes": ["扫码解析对齐 @local/phone-remote 的 pair?code= 格式"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.4.9/dsh-pocket-0.4.9.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.4.9.apk",
+  "sha256": "45f988c4cfdd706b3859adffe3f833f89e2a7d8f4e2f9683bf9ebc3aabfbb3f4",
+  "notes": ["修复误标版本；扫码锁定竖屏"]
 }
