@@ -1,9 +1,9 @@
 {
-  "version": "0.10.4",
-  "versionCode": 1004,
-  "size": 1226928,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.4/dsh-pocket-0.10.4.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.4.apk",
-  "sha256": "5181fc7116470b120756937c3e4fdc88c3fa396d12819d43920115e2f95031b5",
-  "notes": ["模式选择接 agentPresets/list（真实 preset）"]
+  "version": "0.10.5",
+  "versionCode": 1005,
+  "size": 1231024,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.5/dsh-pocket-0.10.5.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.5.apk",
+  "sha256": "334eb415b6a558f5b6f06b1415416a5756aca26bf2c55b40e221ed767bd1d8a2",
+  "notes": ["图片附件：选图 → base64 → session/prompt content"]
 }
