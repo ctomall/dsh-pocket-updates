@@ -1,9 +1,9 @@
 {
-  "version": "0.10.8",
-  "versionCode": 1008,
+  "version": "0.10.9",
+  "versionCode": 1009,
   "size": 1235120,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.8/dsh-pocket-0.10.8.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.8.apk",
-  "sha256": "291ce4d482c2836f678325c3a1083781840af011cb02c0e0ef59d40706397569",
-  "notes": ["语音输入：RecognizerIntent + zh-CN，识别结果回填输入框"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.9/dsh-pocket-0.10.9.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.9.apk",
+  "sha256": "3ec30f3a0720c0adc3bf234d0081b262e4844a98908d3deb14a7e03d6050a0c7",
+  "notes": ["C5 服务器监控接真数据（网关新增 /api/mobile/v1/monitor）"]
 }
