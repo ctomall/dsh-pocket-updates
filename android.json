@@ -1,9 +1,9 @@
 {
-  "version": "0.6.1",
-  "versionCode": 601,
-  "size": 1185968,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.6.1/dsh-pocket-0.6.1.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.6.1.apk",
-  "sha256": "ea42853e0b599a037890eefddbd1115e32c1b463720c31b0b04368776bfe66fd",
-  "notes": ["A2 会话底部状态条：轮次/步数/token/上下文占用"]
+  "version": "0.6.2",
+  "versionCode": 602,
+  "size": 1190064,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.6.2/dsh-pocket-0.6.2.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.6.2.apk",
+  "sha256": "b4e737da5dd66a07d82e055ba9f4bc6562dae11a748c3ed52289aa70ea26eef6",
+  "notes": ["D6 提问卡：userQuestions 渲染 + 选择 + 提交"]
 }
