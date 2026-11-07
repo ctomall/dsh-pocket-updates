@@ -13,6 +13,17 @@ RAW_BASE=https://raw.githubusercontent.com/ctomall/dsh-pocket-updates/main
 cd "$(dirname "$0")"
 BASE="dsh-pocket-$VER.apk"
 SHA=$(sha256sum "$APK" | cut -d' ' -f1)
+
+# 包里真实的版本号才算数：防止「清单写 0.4.7、包里是 0.4.6」
+BADGING=$(/home/pro/android-sdk/build-tools/34.0.0/aapt2 dump badging "$APK" 2>/dev/null | head -1)
+APK_CODE=$(echo "$BADGING" | sed -E "s/.*versionCode='([0-9]+)'.*/\1/")
+APK_NAME=$(echo "$BADGING" | sed -E "s/.*versionName='([^']+)'.*/\1/")
+WANT_CODE=$(( $(echo "$VER" | cut -d. -f1) * 10000 + $(echo "$VER" | cut -d. -f2) * 100 + $(echo "$VER" | cut -d. -f3) ))
+if [ "$APK_NAME" != "$VER" ] || [ "$APK_CODE" != "$WANT_CODE" ]; then
+  echo "   ✗ 包内版本 $APK_NAME ($APK_CODE) 与要发布的 $VER ($WANT_CODE) 不一致，停止发布"
+  exit 1
+fi
+echo "   ✓ 包内版本核对通过：$APK_NAME ($APK_CODE)"
 SIZE=$(stat -c%s "$APK")
 CODE=$(( $(echo "$VER" | cut -d. -f1) * 10000 + $(echo "$VER" | cut -d. -f2) * 100 + $(echo "$VER" | cut -d. -f3) ))
 
