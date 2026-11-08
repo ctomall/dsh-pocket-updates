@@ -1,9 +1,9 @@
 {
-  "version": "0.10.20",
-  "versionCode": 1020,
-  "size": 1239216,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.20/dsh-pocket-0.10.20.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.20.apk",
-  "sha256": "efddfe2f8da587d846299d644ba729b04ee6cbffd8b39c857580fd6388a7d0fd",
-  "notes": ["公网 OTA 靶子版本"]
+  "version": "0.10.21",
+  "versionCode": 1021,
+  "size": 1243312,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.21/dsh-pocket-0.10.21.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.21.apk",
+  "sha256": "1a15bd7810e0b40f791404651b731a4aa25597df289ec2dc01ee61a8db1d5fea",
+  "notes": ["工作区菜单与新建工作区打通；可点区域与门禁修复"]
 }
