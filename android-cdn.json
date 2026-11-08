@@ -1,10 +1,10 @@
 {
-  "version": "0.10.33",
-  "versionCode": 1033,
-  "size": 1267888,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.33.apk",
-  "sha256": "9d14f3238dd349f0f42b887ce08754079ce118309dbe5ae557c013e0ee323d3d",
+  "version": "0.10.34",
+  "versionCode": 1034,
+  "size": 1263792,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.34.apk",
+  "sha256": "e5b6d9649c052bac985a9269561352b54f64110f59ade8416c22131999b268fe",
   "notes": [
-    "unslop: 图标统一/字阶收敛/侧栏去重"
+    "导航行 44→36dp，行间 2dp"
   ]
 }
