@@ -1,10 +1,10 @@
 {
-  "version": "0.10.72",
-  "versionCode": 1072,
-  "size": 1440032,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.72.apk",
-  "sha256": "540e0736b20c0b77f4c162242eb70156da52e9377ab4e53c2debb7692d5bc90e",
+  "version": "0.10.73",
+  "versionCode": 1073,
+  "size": 1448224,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.73.apk",
+  "sha256": "f88b5d64f39f558fc120ccfe1a73254fa6396699b23083069fd592df585426bc",
   "notes": [
-    "专家启停：App 侧就绪（有 enabled 才显示开关）+ host 插件补丁与离线测试"
+    "排期时间规则全覆盖：每天/每周/Cron/一次性/间隔，编辑可改时间，列表可读描述"
   ]
 }
