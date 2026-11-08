@@ -1,9 +1,9 @@
 {
-  "version": "0.10.68",
-  "versionCode": 1068,
+  "version": "0.10.69",
+  "versionCode": 1069,
   "size": 1435936,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.68/dsh-pocket-0.10.68.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.68.apk",
-  "sha256": "7fd372a1af5837f6ef0634a66b41ce2139662322e881b8f1dc6b9842630b47d0",
-  "notes": ["设置页分组可折叠，折叠状态持久化（重启后仍收起）"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.69/dsh-pocket-0.10.69.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.69.apk",
+  "sha256": "7ec478c919d1e1c1c07094de7342cdfbf76c23f673faaa25b5738654491afa3c",
+  "notes": ["深色巡检修复：10 个弹窗不再用 Material 浅色容器，统一跟随 Ink.surface"]
 }
