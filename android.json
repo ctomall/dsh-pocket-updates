@@ -1,9 +1,9 @@
 {
-  "version": "0.10.23",
-  "versionCode": 1023,
+  "version": "0.10.24",
+  "versionCode": 1024,
   "size": 1243312,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.23/dsh-pocket-0.10.23.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.23.apk",
-  "sha256": "804532de92ae3d968c76161641d08832981a53855886b67facfeac549404de1c",
-  "notes": ["A3 附件回显渲染验证；README 状态表收敛"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.24/dsh-pocket-0.10.24.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.24.apk",
+  "sha256": "9894e07283664ef508a6f0ecc9d2471d44cb1492d4093c0b802e24d9bf5b0804",
+  "notes": ["审批点按不再静默失败，回执缺失时给出原因"]
 }
