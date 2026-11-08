@@ -1,9 +1,9 @@
 {
-  "version": "0.10.55",
-  "versionCode": 1055,
-  "size": 1419552,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.55/dsh-pocket-0.10.55.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.55.apk",
-  "sha256": "74b43be1d77e4b915584c14ee942356901bb58f9b90aee49adb5d89a97f836a9",
-  "notes": ["设置页标量字段可真写（settings/update，带 revision 校验）；timeoutMs 双向改动已真机取证"]
+  "version": "0.10.56",
+  "versionCode": 1056,
+  "size": 1423648,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.56/dsh-pocket-0.10.56.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.56.apk",
+  "sha256": "55b7116e9cb08df020b5b9a11217c80cc0e6dbb6e817c7c4ea2ba82d698fbc55",
+  "notes": ["账户与凭据页：*Env 引用扫描 + credentials/describe|set|unset（新增/设置/清除已真机取证）"]
 }
