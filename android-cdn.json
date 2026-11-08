@@ -1,10 +1,10 @@
 {
-  "version": "0.10.46",
-  "versionCode": 1046,
+  "version": "0.10.47",
+  "versionCode": 1047,
   "size": 1407264,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.46.apk",
-  "sha256": "1faab2f38c773cd18a5437329a36b4c9005ed0099ecc0ca5179d69b73fdedf14",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.47.apk",
+  "sha256": "6896595e4689eb41595a707174d9ad9f6f7d215f1f43bc8ff228911c342513db",
   "notes": [
-    "去重"
+    "监控/自动化页去重"
   ]
 }
