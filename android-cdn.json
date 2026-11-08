@@ -1,10 +1,10 @@
 {
-  "version": "0.10.70",
-  "versionCode": 1070,
+  "version": "0.10.71",
+  "versionCode": 1071,
   "size": 1440032,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.70.apk",
-  "sha256": "ec1acd4ffd21ced039a836c7d6300abd6b2731d578f7d6bd84c1c1e39c8ca9e4",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.71.apk",
+  "sha256": "bdf2ff8ef961aad89ff7b00b1d05f887ea5f93608885f87bd07a6524853fdc17",
   "notes": [
-    "文件页可点开文件看内容（启用此前死代码 readFileText，内联预览卡片）"
+    "账户引用可跨重启保留 + 可移除（此前新增的引用重启就消失）"
   ]
 }
