@@ -1,9 +1,9 @@
 {
-  "version": "0.10.51",
-  "versionCode": 1051,
+  "version": "0.10.52",
+  "versionCode": 1052,
   "size": 1415456,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.51/dsh-pocket-0.10.51.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.51.apk",
-  "sha256": "9f49358585b95d7bb6b99557a3eb76911af44ac0d43c371e697371724e27b83e",
-  "notes": ["修复配对凭据丢失（jar key 与设备 id 不一致致重启后 401）；新增模型/权限面板"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.52/dsh-pocket-0.10.52.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.52.apk",
+  "sha256": "731e5f10cd82b5c231b22ab91ba31be0e63ddb7e9e16f66a350b88236ba2de32",
+  "notes": ["插件页真启用/停用开关（pluginManager/setPluginEnabled）+ 停用二次确认与原地更新"]
 }
