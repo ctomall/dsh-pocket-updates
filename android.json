@@ -1,9 +1,9 @@
 {
-  "version": "0.10.15",
-  "versionCode": 1015,
+  "version": "0.10.16",
+  "versionCode": 1016,
   "size": 1239216,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.15/dsh-pocket-0.10.15.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.15.apk",
-  "sha256": "0a2113673990537eaeb0ce70c50903dd07d35940a04b6e293780d1531eb7f044",
-  "notes": ["升级源改为「网关优先 + 取最高版本」：局域网内不依赖 GitHub；网关侧 /update 与 /apk 路由已写好待重载"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.16/dsh-pocket-0.10.16.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.16.apk",
+  "sha256": "11973185b432c5519d3faf9629b6be00b86d28ef320a1573eeae69c609de2bce",
+  "notes": ["公网 OTA：新增 jsDelivr CDN 源"]
 }
