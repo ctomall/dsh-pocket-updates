@@ -1,9 +1,9 @@
 {
-  "version": "0.10.71",
-  "versionCode": 1071,
+  "version": "0.10.72",
+  "versionCode": 1072,
   "size": 1440032,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.71/dsh-pocket-0.10.71.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.71.apk",
-  "sha256": "bdf2ff8ef961aad89ff7b00b1d05f887ea5f93608885f87bd07a6524853fdc17",
-  "notes": ["账户引用可跨重启保留 + 可移除（此前新增的引用重启就消失）"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.72/dsh-pocket-0.10.72.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.72.apk",
+  "sha256": "540e0736b20c0b77f4c162242eb70156da52e9377ab4e53c2debb7692d5bc90e",
+  "notes": ["专家启停：App 侧就绪（有 enabled 才显示开关）+ host 插件补丁与离线测试"]
 }
