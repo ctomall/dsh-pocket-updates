@@ -15,7 +15,9 @@ BASE="dsh-pocket-$VER.apk"
 SHA=$(sha256sum "$APK" | cut -d' ' -f1)
 
 # 包里真实的版本号才算数：防止「清单写 0.4.7、包里是 0.4.6」
-BADGING=$(/home/pro/android-sdk/build-tools/34.0.0/aapt2 dump badging "$APK" 2>/dev/null | head -1)
+# 用 sed -n 1p 而不是 head -1：head 提前关闭管道会让 aapt2 收到 SIGPIPE，
+# 在 set -o pipefail 下整条 pipeline 返回 141，脚本静默退出（0.10.46/0.10.47 就栽在这）。
+BADGING=$(/home/pro/android-sdk/build-tools/34.0.0/aapt2 dump badging "$APK" 2>/dev/null | sed -n '1p')
 APK_CODE=$(echo "$BADGING" | sed -E "s/.*versionCode='([0-9]+)'.*/\1/")
 APK_NAME=$(echo "$BADGING" | sed -E "s/.*versionName='([^']+)'.*/\1/")
 WANT_CODE=$(( $(echo "$VER" | cut -d. -f1) * 10000 + $(echo "$VER" | cut -d. -f2) * 100 + $(echo "$VER" | cut -d. -f3) ))
