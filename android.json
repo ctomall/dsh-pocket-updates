@@ -1,9 +1,9 @@
 {
-  "version": "0.10.16",
-  "versionCode": 1016,
+  "version": "0.10.17",
+  "versionCode": 1017,
   "size": 1239216,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.16/dsh-pocket-0.10.16.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.16.apk",
-  "sha256": "11973185b432c5519d3faf9629b6be00b86d28ef320a1573eeae69c609de2bce",
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.17/dsh-pocket-0.10.17.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.17.apk",
+  "sha256": "befc4374bbaffa6d1b6a73e29edf01e24615ac7df3849b0e0bec64367b508ff8",
   "notes": ["公网 OTA：新增 jsDelivr CDN 源"]
 }
