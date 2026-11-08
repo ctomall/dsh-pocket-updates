@@ -1,9 +1,9 @@
 {
-  "version": "0.10.61",
-  "versionCode": 1061,
+  "version": "0.10.62",
+  "versionCode": 1062,
   "size": 1431840,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.61/dsh-pocket-0.10.61.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.61.apk",
-  "sha256": "a4715fc88c9964c5fe79d6e0aeb85fd3718cfa0bcd12e234f499070ea35cb463",
-  "notes": ["插件页 MCP 连接专区（4 条真连接 + 启停），主列表不再混排 MCP"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.62/dsh-pocket-0.10.62.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.62.apk",
+  "sha256": "1e4bdf0b22042bb81d88f63fc10809f62d272c7de4c2d22d823553a8b7002ca9",
+  "notes": ["回归修复：首次配对不再自动弹相机；文件页无标题会话标签去掉 session- 前缀"]
 }
