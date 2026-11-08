@@ -1,10 +1,10 @@
 {
-  "version": "0.10.60",
-  "versionCode": 1060,
+  "version": "0.10.61",
+  "versionCode": 1061,
   "size": 1431840,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.60.apk",
-  "sha256": "be4068beaeef190a9f9b4dda250ffc3748c4ccb5d303ecc54c48b2e58ad25d6c",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.61.apk",
+  "sha256": "a4715fc88c9964c5fe79d6e0aeb85fd3718cfa0bcd12e234f499070ea35cb463",
   "notes": [
-    "监控页补磁盘/进程区块（老网关优雅降级）；网关侧 collectHostFacts 已带 fixture 测试"
+    "插件页 MCP 连接专区（4 条真连接 + 启停），主列表不再混排 MCP"
   ]
 }
