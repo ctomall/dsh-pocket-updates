@@ -1,9 +1,9 @@
 {
-  "version": "0.10.41",
-  "versionCode": 1041,
-  "size": 1345824,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.41/dsh-pocket-0.10.41.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.41.apk",
-  "sha256": "475046309463be36fc5fbd7b761573ce55d547816fa3b150244b3f2356335fc5",
-  "notes": ["文件页：工作区目录浏览与下钻 + route 深链"]
+  "version": "0.10.42",
+  "versionCode": 1042,
+  "size": 1403168,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.42/dsh-pocket-0.10.42.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.42.apk",
+  "sha256": "e229f6ce09e58a51752250f42727b241c61bfa976d8f55007672ab0bfb9701df",
+  "notes": ["自动化任务真增删改"]
 }
