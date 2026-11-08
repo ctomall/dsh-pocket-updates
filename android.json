@@ -1,9 +1,9 @@
 {
-  "version": "0.10.58",
-  "versionCode": 1058,
-  "size": 1427744,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.58/dsh-pocket-0.10.58.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.58.apk",
-  "sha256": "1f2098d2b47ff6b9329e8a927272f2ed16126a6cb86371011c7295fdde1a8382",
-  "notes": ["设置页 12 组语义归位（模型/权限/插件与MCP/外观等）+ 未命中进其它，30 个命名空间零丢失"]
+  "version": "0.10.59",
+  "versionCode": 1059,
+  "size": 1431840,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.59/dsh-pocket-0.10.59.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.59.apk",
+  "sha256": "9fd72b67e2ed7f72c443c8a0afe9300c95e7e7103aa5253ba49ffdd2cdbd768f",
+  "notes": ["插件包 README 详情（readBundleDetail），点包名即可读真 README"]
 }
