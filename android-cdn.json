@@ -1,10 +1,10 @@
 {
-  "version": "0.10.57",
-  "versionCode": 1057,
+  "version": "0.10.58",
+  "versionCode": 1058,
   "size": 1427744,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.57.apk",
-  "sha256": "77bb5f06c058403b592972cc8bf2289d11331cf53e145b51205abc746d2d0f14",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.58.apk",
+  "sha256": "1f2098d2b47ff6b9329e8a927272f2ed16126a6cb86371011c7295fdde1a8382",
   "notes": [
-    "专家中心：提示词查看/复制 + 用专家开新会话（预填不自动发送）"
+    "设置页 12 组语义归位（模型/权限/插件与MCP/外观等）+ 未命中进其它，30 个命名空间零丢失"
   ]
 }
