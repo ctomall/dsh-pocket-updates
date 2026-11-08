@@ -1,9 +1,9 @@
 {
-  "version": "0.10.63",
-  "versionCode": 1063,
+  "version": "0.10.64",
+  "versionCode": 1064,
   "size": 1435936,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.63/dsh-pocket-0.10.63.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.63.apk",
-  "sha256": "57bd857ac6bfd12cee8ac58c16fcca6f05c804371fb38e1b7bff40e686e429c6",
-  "notes": ["专家中心补新建/编辑/删除（save/delete 走 params），真机 CRUD 双向取证"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.64/dsh-pocket-0.10.64.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.64.apk",
+  "sha256": "a12bfaf9f2aef18294ac1190215d8ad1c74d8b3e3664e92c41f7d63a5e96d0e4",
+  "notes": ["会话日志支持往前翻页（更早 / 到底提示），真机 1381→2808 条取证"]
 }
