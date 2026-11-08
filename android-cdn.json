@@ -1,10 +1,10 @@
 {
-  "version": "0.10.37",
-  "versionCode": 1037,
-  "size": 1337632,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.37.apk",
-  "sha256": "f31bbf718b3c8e9887dea64da8013be54f1a6ce4d457c5b8b0c1bb94499dd93a",
+  "version": "0.10.38",
+  "versionCode": 1038,
+  "size": 1341728,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.38.apk",
+  "sha256": "3292a07a966f484fb8b18391306f8056961715600d68bb1436c473393acb55a8",
   "notes": [
-    "新增设置页：settings/describe 命名空间只读展示"
+    "深色外观：调色板改为主题感知，系统栏跟随，修主按钮反色"
   ]
 }
