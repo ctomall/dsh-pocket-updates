@@ -1,10 +1,10 @@
 {
-  "version": "0.10.40",
-  "versionCode": 1040,
-  "size": 1341728,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.40.apk",
-  "sha256": "74cf905425e7c332cdd85745d6734aa3b9d8371378937618907ba921e896e1ca",
+  "version": "0.10.41",
+  "versionCode": 1041,
+  "size": 1345824,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.41.apk",
+  "sha256": "475046309463be36fc5fbd7b761573ce55d547816fa3b150244b3f2356335fc5",
   "notes": [
-    "设置页接真 host：已改/自定义页 标记"
+    "文件页：工作区目录浏览与下钻 + route 深链"
   ]
 }
