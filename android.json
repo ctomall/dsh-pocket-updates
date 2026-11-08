@@ -1,9 +1,9 @@
 {
-  "version": "0.10.49",
-  "versionCode": 1049,
-  "size": 1411360,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.49/dsh-pocket-0.10.49.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.49.apk",
-  "sha256": "de7a2833daa9eeff89965b98ea90b1471f5a6d863867a7ab3ac3991fb42bfcf1",
-  "notes": ["自动化任务补「编辑任务」与「投递历史」；新建/编辑/暂停/恢复/删除已真机验证"]
+  "version": "0.10.51",
+  "versionCode": 1051,
+  "size": 1415456,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.51/dsh-pocket-0.10.51.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.51.apk",
+  "sha256": "9f49358585b95d7bb6b99557a3eb76911af44ac0d43c371e697371724e27b83e",
+  "notes": ["修复配对凭据丢失（jar key 与设备 id 不一致致重启后 401）；新增模型/权限面板"]
 }
