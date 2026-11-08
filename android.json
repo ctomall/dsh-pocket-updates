@@ -1,9 +1,9 @@
 {
-  "version": "0.10.19",
-  "versionCode": 1019,
+  "version": "0.10.20",
+  "versionCode": 1020,
   "size": 1239216,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.19/dsh-pocket-0.10.19.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.19.apk",
-  "sha256": "f1f892acf9ad7f75da58197917ce37cc9f9da98ca73e355417f76cdd7fceddc0",
-  "notes": ["公网 OTA 验证版本（逻辑与 0.10.18 相同，仅版本号）"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.20/dsh-pocket-0.10.20.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.20.apk",
+  "sha256": "efddfe2f8da587d846299d644ba729b04ee6cbffd8b39c857580fd6388a7d0fd",
+  "notes": ["公网 OTA 靶子版本"]
 }
