@@ -1,9 +1,9 @@
 {
-  "version": "0.10.21",
-  "versionCode": 1021,
+  "version": "0.10.22",
+  "versionCode": 1022,
   "size": 1243312,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.21/dsh-pocket-0.10.21.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.21.apk",
-  "sha256": "1a15bd7810e0b40f791404651b731a4aa25597df289ec2dc01ee61a8db1d5fea",
-  "notes": ["工作区菜单与新建工作区打通；可点区域与门禁修复"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.22/dsh-pocket-0.10.22.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.22.apk",
+  "sha256": "2b6caa361db3a1e980da4bc87c6231c20311597a2c7fb62489f2c1e420d20457",
+  "notes": ["审批/计划/提问卡渲染验证；附件缓存按文本兜底"]
 }
