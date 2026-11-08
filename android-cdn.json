@@ -1,10 +1,10 @@
 {
-  "version": "0.10.22",
-  "versionCode": 1022,
+  "version": "0.10.23",
+  "versionCode": 1023,
   "size": 1243312,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.22.apk",
-  "sha256": "2b6caa361db3a1e980da4bc87c6231c20311597a2c7fb62489f2c1e420d20457",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.23.apk",
+  "sha256": "804532de92ae3d968c76161641d08832981a53855886b67facfeac549404de1c",
   "notes": [
-    "审批/计划/提问卡渲染验证；附件缓存按文本兜底"
+    "A3 附件回显渲染验证；README 状态表收敛"
   ]
 }
