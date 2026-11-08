@@ -1,9 +1,9 @@
 {
-  "version": "0.10.66",
-  "versionCode": 1066,
+  "version": "0.10.67",
+  "versionCode": 1067,
   "size": 1435936,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.66/dsh-pocket-0.10.66.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.66.apk",
-  "sha256": "3022911a4696371396c8c3aad31bfd0e462308be3a0b487dbc04bb53a25faca8",
-  "notes": ["专家名册渲染 glyph 图标；编辑弹窗真机取证（tagline 改动已回写主机并复原）"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.67/dsh-pocket-0.10.67.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.67.apk",
+  "sha256": "8d779f27724ece8d5febd14fce75f3d96bf903191b7116b6f342017168726dfb",
+  "notes": ["权限面板显示当前生效值（投影 permissions.currentValue）+ 主机默认，标记当前项"]
 }
