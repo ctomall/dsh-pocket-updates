@@ -1,0 +1,10 @@
+{
+  "version": "0.10.15",
+  "versionCode": 1015,
+  "size": 1239216,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.15.apk",
+  "sha256": "0a2113673990537eaeb0ce70c50903dd07d35940a04b6e293780d1531eb7f044",
+  "notes": [
+    "升级源改为「网关优先 + 取最高版本」：局域网内不依赖 GitHub；网关侧 /update 与 /apk 路由已写好待重载"
+  ]
+}

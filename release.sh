@@ -88,12 +88,21 @@ cat > android.json <<JSON
   "notes": ["$NOTE"]
 }
 JSON
-sudo cp android.json "$CDN_DIR/android.json"
+
+# 再写一份 CDN 清单：url 指向 jsDelivr 自己，绕开 github.com:443
+python3 - "dsh-pocket-$VER.apk" <<'PYCDN'
+import json,sys
+m=json.load(open('android.json'))
+m['url']="https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/"+sys.argv[1]
+m.pop('fallback',None)
+json.dump(m,open('android-cdn.json','w'),ensure_ascii=False,indent=2)
+PYCDN
+sudo cp android.json android-cdn.json "$CDN_DIR/"
 sudo chmod a+r "$CDN_DIR/android.json"
 echo "   ✓ 清单已写，versionCode $CODE"
 
 echo "== 5/5 同时提交包与清单 =="
-git add "$BASE" android.json
+git add "$BASE" android.json android-cdn.json
 git -c user.name="DSH Pocket" -c user.email="dev@dsh.local" commit -q -m "release $VER: $NOTE"
 echo "   ✓ commit $(git rev-parse --short HEAD)（包与清单在同一个提交里）"
 echo
