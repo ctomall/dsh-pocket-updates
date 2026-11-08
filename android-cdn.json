@@ -1,10 +1,10 @@
 {
-  "version": "0.10.52",
-  "versionCode": 1052,
+  "version": "0.10.53",
+  "versionCode": 1053,
   "size": 1415456,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.52.apk",
-  "sha256": "731e5f10cd82b5c231b22ab91ba31be0e63ddb7e9e16f66a350b88236ba2de32",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.53.apk",
+  "sha256": "7b877b594c446bc3d1b1914f8c86a41f30f3de54098874cabb3564e1afa94156",
   "notes": [
-    "插件页真启用/停用开关（pluginManager/setPluginEnabled）+ 停用二次确认与原地更新"
+    "文件页无会话时给会话选择器；根目录/下钻真实文件列表已真机取证"
   ]
 }
