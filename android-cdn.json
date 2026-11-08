@@ -1,10 +1,10 @@
 {
-  "version": "0.10.69",
-  "versionCode": 1069,
-  "size": 1435936,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.69.apk",
-  "sha256": "7ec478c919d1e1c1c07094de7342cdfbf76c23f673faaa25b5738654491afa3c",
+  "version": "0.10.70",
+  "versionCode": 1070,
+  "size": 1440032,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.70.apk",
+  "sha256": "ec1acd4ffd21ced039a836c7d6300abd6b2731d578f7d6bd84c1c1e39c8ca9e4",
   "notes": [
-    "深色巡检修复：10 个弹窗不再用 Material 浅色容器，统一跟随 Ink.surface"
+    "文件页可点开文件看内容（启用此前死代码 readFileText，内联预览卡片）"
   ]
 }
