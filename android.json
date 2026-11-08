@@ -1,9 +1,9 @@
 {
-  "version": "0.10.45",
-  "versionCode": 1045,
+  "version": "0.10.46",
+  "versionCode": 1046,
   "size": 1407264,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.45/dsh-pocket-0.10.45.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.45.apk",
-  "sha256": "be3249556fdc9542db06b0faac2e29042a707f7a73a6ba58e8cc21ebf92a8941",
-  "notes": ["cap"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.46/dsh-pocket-0.10.46.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.46.apk",
+  "sha256": "1faab2f38c773cd18a5437329a36b4c9005ed0099ecc0ca5179d69b73fdedf14",
+  "notes": ["去重"]
 }
