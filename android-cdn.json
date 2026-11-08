@@ -1,10 +1,10 @@
 {
-  "version": "0.10.59",
-  "versionCode": 1059,
+  "version": "0.10.60",
+  "versionCode": 1060,
   "size": 1431840,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.59.apk",
-  "sha256": "9fd72b67e2ed7f72c443c8a0afe9300c95e7e7103aa5253ba49ffdd2cdbd768f",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.60.apk",
+  "sha256": "be4068beaeef190a9f9b4dda250ffc3748c4ccb5d303ecc54c48b2e58ad25d6c",
   "notes": [
-    "插件包 README 详情（readBundleDetail），点包名即可读真 README"
+    "监控页补磁盘/进程区块（老网关优雅降级）；网关侧 collectHostFacts 已带 fixture 测试"
   ]
 }
