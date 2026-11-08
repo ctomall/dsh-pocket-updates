@@ -1,10 +1,10 @@
 {
-  "version": "0.10.27",
-  "versionCode": 1027,
+  "version": "0.10.28",
+  "versionCode": 1028,
   "size": 1259696,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.27.apk",
-  "sha256": "56b7e82bf86e30a87e3a40b02c6b366041d94a644e70b47771abcecea4aa6b7d",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.28.apk",
+  "sha256": "9cfd24f1b2abfcee7e80c17d8ab34ddc6e9555cb95730b04be100f55cad38cfe",
   "notes": [
-    "顶栏两个空按钮接活 + 对话输出排版优化"
+    "工具卡重排：状态色条 + 等宽命令 + 结果缩进"
   ]
 }
