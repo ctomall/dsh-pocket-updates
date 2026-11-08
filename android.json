@@ -1,9 +1,9 @@
 {
-  "version": "0.10.42",
-  "versionCode": 1042,
-  "size": 1403168,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.42/dsh-pocket-0.10.42.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.42.apk",
-  "sha256": "e229f6ce09e58a51752250f42727b241c61bfa976d8f55007672ab0bfb9701df",
-  "notes": ["自动化任务真增删改"]
+  "version": "0.10.44",
+  "versionCode": 1044,
+  "size": 1407264,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.44/dsh-pocket-0.10.44.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.44.apk",
+  "sha256": "6fe7c8d7c4c7c5cb21048ba3b935c02473c260010d45d89f788d56256b25b558",
+  "notes": ["凭据诊断：显示 cookie 组成与最近错误"]
 }
