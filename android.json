@@ -1,9 +1,9 @@
 {
-  "version": "0.10.28",
-  "versionCode": 1028,
-  "size": 1259696,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.28/dsh-pocket-0.10.28.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.28.apk",
-  "sha256": "9cfd24f1b2abfcee7e80c17d8ab34ddc6e9555cb95730b04be100f55cad38cfe",
-  "notes": ["工具卡重排：状态色条 + 等宽命令 + 结果缩进"]
+  "version": "0.10.29",
+  "versionCode": 1029,
+  "size": 1263792,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.29/dsh-pocket-0.10.29.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.29.apk",
+  "sha256": "0587cf2e5de77212784866a1b64d92c76349f22e80da4930f08b7b0f333379b3",
+  "notes": ["审批/计划/提问卡重排：琥珀状态条 + 统一留白"]
 }
