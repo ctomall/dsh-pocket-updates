@@ -1,9 +1,9 @@
 {
-  "version": "0.10.38",
-  "versionCode": 1038,
+  "version": "0.10.39",
+  "versionCode": 1039,
   "size": 1341728,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.38/dsh-pocket-0.10.38.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.38.apk",
-  "sha256": "3292a07a966f484fb8b18391306f8056961715600d68bb1436c473393acb55a8",
-  "notes": ["深色外观：调色板改为主题感知，系统栏跟随，修主按钮反色"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.39/dsh-pocket-0.10.39.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.39.apk",
+  "sha256": "f0e1f146c9280578ebec4e3e0bfd07e9ce9abc3123519465756330c4affb4599",
+  "notes": ["会话导出（Markdown）到 app 私有目录 + Toast 回显路径"]
 }
