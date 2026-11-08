@@ -1,9 +1,9 @@
 {
-  "version": "0.10.32",
-  "versionCode": 1032,
-  "size": 1263792,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.32/dsh-pocket-0.10.32.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.32.apk",
-  "sha256": "3f6a918364dcc7e1c264cda738f5d94d820d48f3fd31239f0b8ecc79994ef21a",
-  "notes": ["composer 死图标接活：命令入口 + 空态提示，移除假终端图标"]
+  "version": "0.10.33",
+  "versionCode": 1033,
+  "size": 1267888,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.33/dsh-pocket-0.10.33.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.33.apk",
+  "sha256": "9d14f3238dd349f0f42b887ce08754079ce118309dbe5ae557c013e0ee323d3d",
+  "notes": ["unslop: 图标统一/字阶收敛/侧栏去重"]
 }
