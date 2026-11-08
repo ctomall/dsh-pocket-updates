@@ -1,10 +1,10 @@
 {
-  "version": "0.10.31",
-  "versionCode": 1031,
+  "version": "0.10.32",
+  "versionCode": 1032,
   "size": 1263792,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.31.apk",
-  "sha256": "eee249e31a9b47e127668c2848fef27a54fc75584857fb1aa8cd8d6b163cd250",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.32.apk",
+  "sha256": "3f6a918364dcc7e1c264cda738f5d94d820d48f3fd31239f0b8ecc79994ef21a",
   "notes": [
-    "决策卡显示队列剩余条数"
+    "composer 死图标接活：命令入口 + 空态提示，移除假终端图标"
   ]
 }
