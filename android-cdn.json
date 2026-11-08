@@ -1,10 +1,10 @@
 {
-  "version": "0.10.67",
-  "versionCode": 1067,
+  "version": "0.10.68",
+  "versionCode": 1068,
   "size": 1435936,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.67.apk",
-  "sha256": "8d779f27724ece8d5febd14fce75f3d96bf903191b7116b6f342017168726dfb",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.68.apk",
+  "sha256": "7fd372a1af5837f6ef0634a66b41ce2139662322e881b8f1dc6b9842630b47d0",
   "notes": [
-    "权限面板显示当前生效值（投影 permissions.currentValue）+ 主机默认，标记当前项"
+    "设置页分组可折叠，折叠状态持久化（重启后仍收起）"
   ]
 }
