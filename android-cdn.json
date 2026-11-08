@@ -1,10 +1,10 @@
 {
-  "version": "0.10.64",
-  "versionCode": 1064,
+  "version": "0.10.65",
+  "versionCode": 1065,
   "size": 1435936,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.64.apk",
-  "sha256": "a12bfaf9f2aef18294ac1190215d8ad1c74d8b3e3664e92c41f7d63a5e96d0e4",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.65.apk",
+  "sha256": "506dc01309219ba6d93ce9ec4fc2808f7508c26953ba190f5aeaac00e42ca869",
   "notes": [
-    "会话日志支持往前翻页（更早 / 到底提示），真机 1381→2808 条取证"
+    "专家表单补图标（glyph）字段；编辑弹窗支持改图标/标签/描述"
   ]
 }
