@@ -1,10 +1,10 @@
 {
-  "version": "0.10.39",
-  "versionCode": 1039,
+  "version": "0.10.40",
+  "versionCode": 1040,
   "size": 1341728,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.39.apk",
-  "sha256": "f0e1f146c9280578ebec4e3e0bfd07e9ce9abc3123519465756330c4affb4599",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.40.apk",
+  "sha256": "74cf905425e7c332cdd85745d6734aa3b9d8371378937618907ba921e896e1ca",
   "notes": [
-    "会话导出（Markdown）到 app 私有目录 + Toast 回显路径"
+    "设置页接真 host：已改/自定义页 标记"
   ]
 }
