@@ -1,10 +1,10 @@
 {
-  "version": "0.10.30",
-  "versionCode": 1030,
+  "version": "0.10.31",
+  "versionCode": 1031,
   "size": 1263792,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.30.apk",
-  "sha256": "2249ab94e4e0dc93b2645de075fc2d715566a2cbd663a7268a1756edf7bc39a7",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.31.apk",
+  "sha256": "eee249e31a9b47e127668c2848fef27a54fc75584857fb1aa8cd8d6b163cd250",
   "notes": [
-    "待决策事件改队列，修并发请求互相顶掉"
+    "决策卡显示队列剩余条数"
   ]
 }
