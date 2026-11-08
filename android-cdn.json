@@ -1,10 +1,10 @@
 {
-  "version": "0.10.53",
-  "versionCode": 1053,
-  "size": 1415456,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.53.apk",
-  "sha256": "7b877b594c446bc3d1b1914f8c86a41f30f3de54098874cabb3564e1afa94156",
+  "version": "0.10.54",
+  "versionCode": 1054,
+  "size": 1419552,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.54.apk",
+  "sha256": "96f64cec7e2824b99df1664dc0f58dc8aa8a01ef53da07bbbc3ade1a3e35ad70",
   "notes": [
-    "文件页无会话时给会话选择器；根目录/下钻真实文件列表已真机取证"
+    "新增会话日志页（session/events 原始事件：序号/时间/类型）＋ JSONL 导出，真机 1449 条取证"
   ]
 }
