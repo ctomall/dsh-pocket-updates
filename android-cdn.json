@@ -1,10 +1,10 @@
 {
-  "version": "0.10.25",
-  "versionCode": 1025,
-  "size": 1243312,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.25.apk",
-  "sha256": "96d4d6fc05da65295a9472219b226fb9a4547431843db00ea37aaa82ece1d6bd",
+  "version": "0.10.26",
+  "versionCode": 1026,
+  "size": 1259696,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.26.apk",
+  "sha256": "499ce2cd4d2575e231997a02b622d00c290bbc01260601a934c0b8dcea1f446e",
   "notes": [
-    "修复 $events 从未订阅：审批/提问端到端打通"
+    "开屏设备列表支持重命名/改地址/删除"
   ]
 }

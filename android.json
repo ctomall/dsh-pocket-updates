@@ -1,9 +1,9 @@
 {
-  "version": "0.10.25",
-  "versionCode": 1025,
-  "size": 1243312,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.25/dsh-pocket-0.10.25.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.25.apk",
-  "sha256": "96d4d6fc05da65295a9472219b226fb9a4547431843db00ea37aaa82ece1d6bd",
-  "notes": ["修复 $events 从未订阅：审批/提问端到端打通"]
+  "version": "0.10.26",
+  "versionCode": 1026,
+  "size": 1259696,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.26/dsh-pocket-0.10.26.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.26.apk",
+  "sha256": "499ce2cd4d2575e231997a02b622d00c290bbc01260601a934c0b8dcea1f446e",
+  "notes": ["开屏设备列表支持重命名/改地址/删除"]
 }
