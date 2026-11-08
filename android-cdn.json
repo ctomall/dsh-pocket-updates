@@ -1,10 +1,10 @@
 {
-  "version": "0.10.26",
-  "versionCode": 1026,
+  "version": "0.10.27",
+  "versionCode": 1027,
   "size": 1259696,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.26.apk",
-  "sha256": "499ce2cd4d2575e231997a02b622d00c290bbc01260601a934c0b8dcea1f446e",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.27.apk",
+  "sha256": "56b7e82bf86e30a87e3a40b02c6b366041d94a644e70b47771abcecea4aa6b7d",
   "notes": [
-    "开屏设备列表支持重命名/改地址/删除"
+    "顶栏两个空按钮接活 + 对话输出排版优化"
   ]
 }
