@@ -1,9 +1,9 @@
 {
-  "version": "0.10.24",
-  "versionCode": 1024,
+  "version": "0.10.25",
+  "versionCode": 1025,
   "size": 1243312,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.24/dsh-pocket-0.10.24.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.24.apk",
-  "sha256": "9894e07283664ef508a6f0ecc9d2471d44cb1492d4093c0b802e24d9bf5b0804",
-  "notes": ["审批点按不再静默失败，回执缺失时给出原因"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.25/dsh-pocket-0.10.25.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.25.apk",
+  "sha256": "96d4d6fc05da65295a9472219b226fb9a4547431843db00ea37aaa82ece1d6bd",
+  "notes": ["修复 $events 从未订阅：审批/提问端到端打通"]
 }
