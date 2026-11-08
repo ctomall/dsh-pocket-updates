@@ -1,9 +1,9 @@
 {
-  "version": "0.10.14",
-  "versionCode": 1014,
+  "version": "0.10.15",
+  "versionCode": 1015,
   "size": 1239216,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.14/dsh-pocket-0.10.14.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.14.apk",
-  "sha256": "3edf4cf19cddef5eb5cbe2e14ca4f5d04e01e1c681e4cabe6c421a2860da92eb",
-  "notes": ["C3 专家中心接真名册（/plugin-api/expert-center/rpc，3 位专家）；插件页/专家页不再显示未接入占位"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.15/dsh-pocket-0.10.15.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.15.apk",
+  "sha256": "0a2113673990537eaeb0ce70c50903dd07d35940a04b6e293780d1531eb7f044",
+  "notes": ["升级源改为「网关优先 + 取最高版本」：局域网内不依赖 GitHub；网关侧 /update 与 /apk 路由已写好待重载"]
 }
