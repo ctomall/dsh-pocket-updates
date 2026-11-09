@@ -1,9 +1,9 @@
 {
-  "version": "0.10.83",
-  "versionCode": 1083,
-  "size": 1456416,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.83/dsh-pocket-0.10.83.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.83.apk",
-  "sha256": "217a182046e3331694fecf67c351b932706ac2e74242e7ab0a13b2b731eb564d",
-  "notes": ["OTA 实测目标版：与 0.10.82 同代码，用于验证 自动推送→升级→网关秒下→系统安装器→新版本 全链路"]
+  "version": "0.10.84",
+  "versionCode": 1084,
+  "size": 1460512,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.84/dsh-pocket-0.10.84.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.84.apk",
+  "sha256": "2912d22943e31bdcb9929da9bff7407ea48018430895b8eca8f1d0c9a3fc00e4",
+  "notes": ["feat(ota): 自动推送闭环——发现即后台下载、通知栏进度、下完一键安装；选设备页横幅改挂底部"]
 }
