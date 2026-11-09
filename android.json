@@ -1,9 +1,9 @@
 {
-  "version": "0.10.90",
-  "versionCode": 1090,
+  "version": "0.10.91",
+  "versionCode": 1091,
   "size": 1460512,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.90/dsh-pocket-0.10.90.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.90.apk",
-  "sha256": "4c71872ba9b2e26f2dabb204e7dbd7ba5540206e6b40fdedd5a6876cc1b0017f",
-  "notes": ["OTA 实测目标版：与 0.10.89 同代码，用于验证 自动下载→慢链路不误报→确认界面被拉起→会话回执 SUCCESS 全链路"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.91/dsh-pocket-0.10.91.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.91.apk",
+  "sha256": "e946cb37e7181f883a72d8d013235b51c921100c0383b5b51fb1fcdee76b81c8",
+  "notes": ["feat(update): 更新源可切换——自定义清单独占且失败明说、不回落公网；有升级对象时也能换源/重新检查；配套 tools/ota-harness.sh 做本地 OTA 验证"]
 }
