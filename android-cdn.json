@@ -1,10 +1,10 @@
 {
-  "version": "0.10.91",
-  "versionCode": 1091,
-  "size": 1460512,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.91.apk",
-  "sha256": "e946cb37e7181f883a72d8d013235b51c921100c0383b5b51fb1fcdee76b81c8",
+  "version": "0.10.93",
+  "versionCode": 1093,
+  "size": 1464608,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.93.apk",
+  "sha256": "4d2736bc84a220800034428c291be2d0df99021e388400535696011909497071",
   "notes": [
-    "feat(update): 更新源可切换——自定义清单独占且失败明说、不回落公网；有升级对象时也能换源/重新检查；配套 tools/ota-harness.sh 做本地 OTA 验证"
+    "UI 基准修正：品牌方标反色对、浅色文字对比度达标、抽屉主操作上移、图标与裸色值收敛"
   ]
 }
