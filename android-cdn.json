@@ -1,10 +1,10 @@
 {
-  "version": "0.10.78",
-  "versionCode": 1078,
+  "version": "0.10.79",
+  "versionCode": 1079,
   "size": 1456416,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.78.apk",
-  "sha256": "10a113466c7e4ba6e63ab53249f8aa1bf4a26b413434e2cb10b2d1dc4f4ed2f3",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.79.apk",
+  "sha256": "8de4b608abf0a87db087808d83082cf62e7d075cdc392e26403bcf455c79d17d",
   "notes": [
-    "修下载超时：安装包用独立客户端（整通 10 分钟，原来 8 秒被掐在 215KB）；横幅显示失败原因并可重试"
+    "OTA 实测目标版：与 0.10.78 同代码，用于验证 自动推送→升级→下载→系统安装器→新版本 全链路"
   ]
 }
