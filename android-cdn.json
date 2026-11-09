@@ -1,10 +1,10 @@
 {
-  "version": "0.10.89",
-  "versionCode": 1089,
+  "version": "0.10.90",
+  "versionCode": 1090,
   "size": 1460512,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.89.apk",
-  "sha256": "992d7ade50a84ce7a5424ea5e275e6fa5ab2aafbafc8e754604a05155e54bbcf",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.90.apk",
+  "sha256": "4c71872ba9b2e26f2dabb204e7dbd7ba5540206e6b40fdedd5a6876cc1b0017f",
   "notes": [
-    "fix(ota): 会话安装补上 STATUS_PENDING_USER_ACTION——系统把确认界面放在 EXTRA_INTENT 里，不启动它用户点安装就毫无反应"
+    "OTA 实测目标版：与 0.10.89 同代码，用于验证 自动下载→慢链路不误报→确认界面被拉起→会话回执 SUCCESS 全链路"
   ]
 }
