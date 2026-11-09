@@ -1,10 +1,10 @@
 {
-  "version": "0.10.84",
-  "versionCode": 1084,
+  "version": "0.10.85",
+  "versionCode": 1085,
   "size": 1460512,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.84.apk",
-  "sha256": "2912d22943e31bdcb9929da9bff7407ea48018430895b8eca8f1d0c9a3fc00e4",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.85.apk",
+  "sha256": "8462f5a87f59f2159fde9f0fc57d3d6501f9f4369d69d6086d82f968be9f029f",
   "notes": [
-    "feat(ota): 自动推送闭环——发现即后台下载、通知栏进度、下完一键安装；选设备页横幅改挂底部"
+    "OTA 实测目标版：与 0.10.84 同代码，用于验证 发现即自动下载→通知栏进度→下载完成→一键安装 全链路"
   ]
 }
