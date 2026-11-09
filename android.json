@@ -1,9 +1,9 @@
 {
-  "version": "0.10.81",
-  "versionCode": 1081,
+  "version": "0.10.82",
+  "versionCode": 1082,
   "size": 1456416,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.81/dsh-pocket-0.10.81.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.81.apk",
-  "sha256": "5147cfe9b54075719673fe7ce881efb289547909013322ba48e0ec0fdfb6d3a0",
-  "notes": ["OTA 实测目标版：与 0.10.80 同代码，用于验证 自动推送→升级→网关下载→系统安装器→新版本 全链路"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.82/dsh-pocket-0.10.82.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.82.apk",
+  "sha256": "43a3c12b96ad4b303feb6a3eb181bd4f6580a1e1050063f186f580f3ca33d35b",
+  "notes": ["升级源按「网关→GitHub→CDN」排序，开屏阶段也能用持久化 cookie 走局域网秒下；下载独立超时；失败原因显示在横幅"]
 }
