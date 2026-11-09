@@ -1,10 +1,10 @@
 {
-  "version": "0.10.75",
-  "versionCode": 1075,
-  "size": 1452320,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.75.apk",
-  "sha256": "cedf8c9fb518cba979c3124984cddbb9b41748c07bfa8dc9c157a70499f8fff2",
+  "version": "0.10.76",
+  "versionCode": 1076,
+  "size": 1456416,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.76.apk",
+  "sha256": "8873ff82626df70bc3cf8773734d3724d683307d6fb5d4aee467d5d1a875b7f8",
   "notes": [
-    "检查更新提速：两源并发竞速+首个成功即定论，点完 2.5s 出结果（原来卡「检查中…」十几秒且无结论）；侧栏显示 已是最新/可升级/失败重试"
+    "自动推送最新版本：开屏自动检查，命中就出顶部横幅（发现新版本/稍后/升级）；回到前台 6h 节流复查；下载中显示百分比与进度条"
   ]
 }
