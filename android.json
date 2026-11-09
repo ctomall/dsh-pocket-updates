@@ -1,9 +1,9 @@
 {
-  "version": "0.10.79",
-  "versionCode": 1079,
+  "version": "0.10.80",
+  "versionCode": 1080,
   "size": 1456416,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.79/dsh-pocket-0.10.79.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.79.apk",
-  "sha256": "8de4b608abf0a87db087808d83082cf62e7d075cdc392e26403bcf455c79d17d",
-  "notes": ["OTA 实测目标版：与 0.10.78 同代码，用于验证 自动推送→升级→下载→系统安装器→新版本 全链路"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.80/dsh-pocket-0.10.80.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.80.apk",
+  "sha256": "17363b0e50c4e1a008a0f6eb1a69a9c93def408d60427ad1eb65dff2744644b7",
+  "notes": ["升级优先走已配对网关（局域网直出 APK，秒级），GitHub/CDN 兜底；下载独立超时；横幅显示失败原因可重试"]
 }
