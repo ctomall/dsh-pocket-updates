@@ -1,10 +1,10 @@
 {
-  "version": "0.10.96",
-  "versionCode": 1096,
+  "version": "0.10.97",
+  "versionCode": 1097,
   "size": 1526048,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.96.apk",
-  "sha256": "f52157768f79f83f0e9c2c8d3b7d07203fed59ef9f033b61c17d03fc65978482",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.97.apk",
+  "sha256": "1c9777e6f456e8c298822d7fd91632c5c61c6791befc8682427b50df574efd92",
   "notes": [
-    "复核整改：附件退出清理、文件预览/导出按设备+会话+代次隔离、IM 快照隔离、上传超限先拒后读且可取消；修复第 4 轮切片带走的「更多」页与「专家中心」；专家中心在无 RPC 的 host 上改为只读降级说明"
+    "修复更新检查的清单源竞速：raw 边缘缓存回旧清单时会盖掉镜像的新版本；现在只有报出新版本才定论，其余继续等其它源"
   ]
 }
