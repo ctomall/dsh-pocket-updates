@@ -1,9 +1,9 @@
 {
-  "version": "0.10.76",
-  "versionCode": 1076,
+  "version": "0.10.77",
+  "versionCode": 1077,
   "size": 1456416,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.76/dsh-pocket-0.10.76.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.76.apk",
-  "sha256": "8873ff82626df70bc3cf8773734d3724d683307d6fb5d4aee467d5d1a875b7f8",
-  "notes": ["自动推送最新版本：开屏自动检查，命中就出顶部横幅（发现新版本/稍后/升级）；回到前台 6h 节流复查；下载中显示百分比与进度条"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.77/dsh-pocket-0.10.77.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.77.apk",
+  "sha256": "3aa272be5754b1d08d1e5a1fa5d0b17dec6124053c10f2585e35a007e3debdf3",
+  "notes": ["OTA 链路实测版：与 0.10.76 同代码，用于验证「自动推送 → 点击升级 → 下载 → 系统安装器 → 新版本」全链路"]
 }
