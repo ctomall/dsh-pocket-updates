@@ -1,9 +1,9 @@
 {
-  "version": "0.10.86",
-  "versionCode": 1086,
+  "version": "0.10.87",
+  "versionCode": 1087,
   "size": 1460512,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.86/dsh-pocket-0.10.86.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.86.apk",
-  "sha256": "e05c2625adb54e3535869f68e65f8a01c2fb68af674dc56c69248aba7a282044",
-  "notes": ["fix(ota): 看门狗改判「字节是否还在长」，停滞时取消下载并显示已下字节；百分比不再冒充心跳"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.87/dsh-pocket-0.10.87.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.87.apk",
+  "sha256": "38be997bd6fa575b8e84d76a74ee5e7199885f5b8febd803935d65de7e25c298",
+  "notes": ["feat(ota): 自动推送闭环——发现即后台下载、通知栏进度、下完一键安装；看门狗按字节判停滞；安装改走 PackageInstaller 会话并回收真实结果"]
 }
