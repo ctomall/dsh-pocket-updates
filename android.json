@@ -1,9 +1,9 @@
 {
-  "version": "0.10.88",
-  "versionCode": 1088,
+  "version": "0.10.89",
+  "versionCode": 1089,
   "size": 1460512,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.88/dsh-pocket-0.10.88.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.88.apk",
-  "sha256": "567368eff14de48fcd0de4e8257dff31ae91b3642a902836a7ec1c51d0044729",
-  "notes": ["OTA 实测目标版：与 0.10.87 同代码，用于验证 发现即自动下载→慢链路百分比不误报→会话式安装回执 全链路"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.89/dsh-pocket-0.10.89.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.89.apk",
+  "sha256": "992d7ade50a84ce7a5424ea5e275e6fa5ab2aafbafc8e754604a05155e54bbcf",
+  "notes": ["fix(ota): 会话安装补上 STATUS_PENDING_USER_ACTION——系统把确认界面放在 EXTRA_INTENT 里，不启动它用户点安装就毫无反应"]
 }
