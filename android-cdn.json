@@ -1,10 +1,10 @@
 {
-  "version": "0.10.80",
-  "versionCode": 1080,
+  "version": "0.10.81",
+  "versionCode": 1081,
   "size": 1456416,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.80.apk",
-  "sha256": "17363b0e50c4e1a008a0f6eb1a69a9c93def408d60427ad1eb65dff2744644b7",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.81.apk",
+  "sha256": "5147cfe9b54075719673fe7ce881efb289547909013322ba48e0ec0fdfb6d3a0",
   "notes": [
-    "升级优先走已配对网关（局域网直出 APK，秒级），GitHub/CDN 兜底；下载独立超时；横幅显示失败原因可重试"
+    "OTA 实测目标版：与 0.10.80 同代码，用于验证 自动推送→升级→网关下载→系统安装器→新版本 全链路"
   ]
 }
