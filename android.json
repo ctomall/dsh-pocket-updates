@@ -1,9 +1,9 @@
 {
-  "version": "0.10.95",
-  "versionCode": 1095,
-  "size": 1464608,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.95/dsh-pocket-0.10.95.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.95.apk",
-  "sha256": "4e674098d6ea429b3e1d479a365b764520f140fee4d4aa1a832c1d097e79102d",
-  "notes": ["UI/UX：配对页补返回路径（系统 Back + ← 返回设备列表，不动当前设备连接）；新增字号三档（小/标准/大，LocalDensity.fontScale 全局生效，实测 ×1.14）；放宽字号后键名折词回归改为单行省略"]
+  "version": "0.10.96",
+  "versionCode": 1096,
+  "size": 1526048,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.96/dsh-pocket-0.10.96.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.96.apk",
+  "sha256": "f52157768f79f83f0e9c2c8d3b7d07203fed59ef9f033b61c17d03fc65978482",
+  "notes": ["复核整改：附件退出清理、文件预览/导出按设备+会话+代次隔离、IM 快照隔离、上传超限先拒后读且可取消；修复第 4 轮切片带走的「更多」页与「专家中心」；专家中心在无 RPC 的 host 上改为只读降级说明"]
 }
