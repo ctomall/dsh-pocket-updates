@@ -1,9 +1,9 @@
 {
-  "version": "0.10.93",
-  "versionCode": 1093,
+  "version": "0.10.94",
+  "versionCode": 1094,
   "size": 1464608,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.93/dsh-pocket-0.10.93.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.93.apk",
-  "sha256": "4d2736bc84a220800034428c291be2d0df99021e388400535696011909497071",
-  "notes": ["UI 基准修正：品牌方标反色对、浅色文字对比度达标、抽屉主操作上移、图标与裸色值收敛"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.94/dsh-pocket-0.10.94.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.94.apk",
+  "sha256": "c699155416b45a422876a029ed97fd543407d78fea6ec84f113baae4fadc0978",
+  "notes": ["UI：实心块上的文字全部走主题反色（连接页/更新按钮/勾选/提交 6 处）、新增 Ink.warn（浅 5.90:1 替代 2.35）、抽屉 footer 拆成连接状态+版本/语言两行、配对页主次分明"]
 }
