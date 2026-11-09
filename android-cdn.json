@@ -1,10 +1,10 @@
 {
-  "version": "0.10.82",
-  "versionCode": 1082,
+  "version": "0.10.83",
+  "versionCode": 1083,
   "size": 1456416,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.82.apk",
-  "sha256": "43a3c12b96ad4b303feb6a3eb181bd4f6580a1e1050063f186f580f3ca33d35b",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.83.apk",
+  "sha256": "217a182046e3331694fecf67c351b932706ac2e74242e7ab0a13b2b731eb564d",
   "notes": [
-    "升级源按「网关→GitHub→CDN」排序，开屏阶段也能用持久化 cookie 走局域网秒下；下载独立超时；失败原因显示在横幅"
+    "OTA 实测目标版：与 0.10.82 同代码，用于验证 自动推送→升级→网关秒下→系统安装器→新版本 全链路"
   ]
 }
