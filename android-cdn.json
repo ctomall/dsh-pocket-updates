@@ -1,10 +1,10 @@
 {
-  "version": "0.10.94",
-  "versionCode": 1094,
+  "version": "0.10.95",
+  "versionCode": 1095,
   "size": 1464608,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.94.apk",
-  "sha256": "c699155416b45a422876a029ed97fd543407d78fea6ec84f113baae4fadc0978",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.95.apk",
+  "sha256": "4e674098d6ea429b3e1d479a365b764520f140fee4d4aa1a832c1d097e79102d",
   "notes": [
-    "UI：实心块上的文字全部走主题反色（连接页/更新按钮/勾选/提交 6 处）、新增 Ink.warn（浅 5.90:1 替代 2.35）、抽屉 footer 拆成连接状态+版本/语言两行、配对页主次分明"
+    "UI/UX：配对页补返回路径（系统 Back + ← 返回设备列表，不动当前设备连接）；新增字号三档（小/标准/大，LocalDensity.fontScale 全局生效，实测 ×1.14）；放宽字号后键名折词回归改为单行省略"
   ]
 }
