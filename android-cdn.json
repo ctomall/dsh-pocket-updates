@@ -1,10 +1,10 @@
 {
-  "version": "0.10.109",
-  "versionCode": 1109,
+  "version": "0.10.110",
+  "versionCode": 1110,
   "size": 1534240,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.109.apk",
-  "sha256": "18ba60baa37c5dbdeb47db39a5cc89ba4d17455d64b1a32076abd5c43c1a8422",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.110.apk",
+  "sha256": "15f173f3c8fdc128a51ee383c55073c8f90e0eb9b498b0915f223295b8b7b0e6",
   "notes": [
-    "专家中心 405 时不再猜：读 host 的 bundle 真实状态，分别给「未启用·可就地启用」/「已启用·等 host 重启」/「包不存在」三种结论；顺带修掉一处星号原样显示的文案 bug"
+    "文案修正：权限面板里的反引号改为中文角括号（纯 Text 不渲染 Markdown，反引号会原样显示）"
   ]
 }
