@@ -1,10 +1,10 @@
 {
-  "version": "0.10.122",
-  "versionCode": 1122,
+  "version": "0.10.123",
+  "versionCode": 1123,
   "size": 1554720,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.122.apk",
-  "sha256": "07d3c0810684a4fbbd5e725b34ac5d16e92f637d9c7fcfbcbd3321417c744e25",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.123.apk",
+  "sha256": "0c981a18bc4edf7e7c1c1c958774adbb5c55bcf3106e2643924551e4c89e7877",
   "notes": [
-    "待办投影与 todo/write 实时更新；审批真实触发（拒绝/允许）、多语言 reason 与 callId 命令回查；205 例单测/独立复核"
+    "紧急修复模型/权限面板 scope 混用（面板永久同步中、目录/权限不显示）；212 例单测/独立复核/真机切换验证"
   ]
 }
