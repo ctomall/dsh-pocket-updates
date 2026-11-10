@@ -1,9 +1,9 @@
 {
-  "version": "0.10.98",
-  "versionCode": 1098,
+  "version": "0.10.99",
+  "versionCode": 1099,
   "size": 1526048,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.98/dsh-pocket-0.10.98.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.98.apk",
-  "sha256": "ae5f6a0008a0c2905d40a50bb55daf1d995ae3168edd05d21464780252e9a2c1",
-  "notes": ["上下文隔离抽成可测逻辑（Scope：设备+会话+请求代次），补 6 例单测；文件预览/导出改用该判定"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.99/dsh-pocket-0.10.99.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.99.apk",
+  "sha256": "41b46c2a8a9c26e1aa88550ce3bfb41875be73d2ed7d364573414d8a2d7d02b6",
+  "notes": ["异步回包时序守卫可执行化（GuardedFetch）+ 4 例真并发单测：慢回包晚于新请求时被丢弃，换设备/换会话中途同样丢弃"]
 }
