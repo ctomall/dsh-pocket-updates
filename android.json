@@ -1,9 +1,9 @@
 {
-  "version": "0.10.120",
-  "versionCode": 1120,
+  "version": "0.10.121",
+  "versionCode": 1121,
   "size": 1554720,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.120/dsh-pocket-0.10.120.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.120.apk",
-  "sha256": "3a083bd8bb69ddfd2b2e9c147fbaa4f4239bd5546727fba2b8996dd36a5c7aeb",
-  "notes": ["设备级异步守卫/F2/页面重载：双服务器隔离、延迟回包丢弃、空态发送恢复；162 例单测/独立复核"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.121/dsh-pocket-0.10.121.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.121.apk",
+  "sha256": "8a141e349484ed8703088794a6d59444a762ff8289b0591167c0dff48322e4c9",
+  "notes": ["上传 identity 回归（MockWebServer）、C1/凭据脱敏、Diag 结构化日志（生产默认无内容载荷）；180 例单测/独立复核"]
 }
