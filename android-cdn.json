@@ -1,10 +1,10 @@
 {
-  "version": "0.10.103",
-  "versionCode": 1103,
+  "version": "0.10.104",
+  "versionCode": 1104,
   "size": 1526048,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.103.apk",
-  "sha256": "639e893fe13a3a6a7ebf5ba688a62a9a3c03506b7ad322d15c048ee27ec33a7c",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.104.apk",
+  "sha256": "4ad19d67c87838c7742bdf701d9fdb3e73f0eb0b1541316a2cfa2bbc2b315eda",
   "notes": [
-    "专家中心 405 定性到 host 组合问题（插件在 dependencies 但不在 dsh.profile.bundles，路由未注册）；只读降级文案点明解除条件，契约文档记录最小 host 改动"
+    "设置页：密钥类字段空值显示「未设置」而不是空白（宿主不回值时不再像坏字段）；规则排除 maxTokens 这类计数"
   ]
 }
