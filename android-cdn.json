@@ -1,10 +1,10 @@
 {
-  "version": "0.10.112",
-  "versionCode": 1112,
-  "size": 1538336,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.112.apk",
-  "sha256": "04fa5dfb3123a194e13f1c06adfa5a54659516c4c95523c6fefb7c4cf8310170",
+  "version": "0.10.117",
+  "versionCode": 1117,
+  "size": 1546528,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.117.apk",
+  "sha256": "d4d832838c2500b729069304a5a59d38cf36724851296c3ba7abfd872e01b4e4",
   "notes": [
-    "复核残余整改：上下文守卫 A1-A15/N1/N2/R1-R4 + 可测化（109 例单测）；干净设备配对/重启恢复/文件预览/插件技能IM设置页回归"
+    "修复提问回答：$events 裸帧解包 + waterfall 桥接；真机验证回答后 agent 继续（142 例单测）"
   ]
 }
