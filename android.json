@@ -1,9 +1,9 @@
 {
-  "version": "0.10.118",
-  "versionCode": 1118,
-  "size": 1550624,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.118/dsh-pocket-0.10.118.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.118.apk",
-  "sha256": "042fc2654a22d200d873150bc399ae2c7ae28a0e4c76e43bc0932fc9aeb66868",
-  "notes": ["上传失败可诊断：identity 头 + 非 JSON 错误带宽/内容类型/片段；subagent 会话显示宿主原因（151 例单测）"]
+  "version": "0.10.119",
+  "versionCode": 1119,
+  "size": 1546528,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.119/dsh-pocket-0.10.119.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.119.apk",
+  "sha256": "c4fefaab6461229789614e7061c610e817ae479057762c8a7557bc623bd8d281",
+  "notes": ["提问卡多题/多选/custom（EventCard 不再只取第一题）+ pendingQs timed 装载；157 例单测/独立复核"]
 }
