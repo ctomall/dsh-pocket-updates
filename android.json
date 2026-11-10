@@ -1,9 +1,9 @@
 {
-  "version": "0.10.107",
-  "versionCode": 1107,
+  "version": "0.10.108",
+  "versionCode": 1108,
   "size": 1530144,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.107/dsh-pocket-0.10.107.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.107.apk",
-  "sha256": "a256b2ac5aa10abe6f20a73ad2e8573a7c01042d3cb16a36664e8c446eee6be9",
-  "notes": ["队列补上 host 支持的 edit：可改写排队中的消息（弹窗预填原文、拒绝空文本、提交后回读队列）；真机验通"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.108/dsh-pocket-0.10.108.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.108.apk",
+  "sha256": "5666fefd7ca2de3fa93af60f907e9b5ca20aac0b44bee027c159e70807385e51",
+  "notes": ["插件包可在手机端启用/停用（走 host 的 setBundleEnabled，会热重载）；结果按 ChangeResult 如实显示，需要重启时明说，不谎称已生效"]
 }
