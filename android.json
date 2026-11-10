@@ -1,9 +1,9 @@
 {
-  "version": "0.10.111",
-  "versionCode": 1111,
-  "size": 1534240,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.111/dsh-pocket-0.10.111.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.111.apk",
-  "sha256": "68b6d003c5a0da4649ba3ce367cf9045857284af213f652a3d09b88b781a461f",
-  "notes": ["修复：空态里发的第一条消息不显示（会话创建后没订阅事件流，对话区一直停在加载中）"]
+  "version": "0.10.112",
+  "versionCode": 1112,
+  "size": 1538336,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.112/dsh-pocket-0.10.112.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.112.apk",
+  "sha256": "04fa5dfb3123a194e13f1c06adfa5a54659516c4c95523c6fefb7c4cf8310170",
+  "notes": ["复核残余整改：上下文守卫 A1-A15/N1/N2/R1-R4 + 可测化（109 例单测）；干净设备配对/重启恢复/文件预览/插件技能IM设置页回归"]
 }
