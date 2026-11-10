@@ -1,9 +1,9 @@
 {
-  "version": "0.10.117",
-  "versionCode": 1117,
-  "size": 1546528,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.117/dsh-pocket-0.10.117.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.117.apk",
-  "sha256": "d4d832838c2500b729069304a5a59d38cf36724851296c3ba7abfd872e01b4e4",
-  "notes": ["修复提问回答：$events 裸帧解包 + waterfall 桥接；真机验证回答后 agent 继续（142 例单测）"]
+  "version": "0.10.118",
+  "versionCode": 1118,
+  "size": 1550624,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.118/dsh-pocket-0.10.118.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.118.apk",
+  "sha256": "042fc2654a22d200d873150bc399ae2c7ae28a0e4c76e43bc0932fc9aeb66868",
+  "notes": ["上传失败可诊断：identity 头 + 非 JSON 错误带宽/内容类型/片段；subagent 会话显示宿主原因（151 例单测）"]
 }
