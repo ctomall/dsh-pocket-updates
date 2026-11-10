@@ -1,10 +1,10 @@
 {
-  "version": "0.10.105",
-  "versionCode": 1105,
+  "version": "0.10.106",
+  "versionCode": 1106,
   "size": 1530144,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.105.apk",
-  "sha256": "ea61a5a54b4678a87851f3fa79c48abf7ca061c3aed8df23fadb0339e22489d0",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.106.apk",
+  "sha256": "20b3e6ce8f60c564556d73e286a1bdf97a44013acb8f4601e36dd822a1b25fe3",
   "notes": [
-    "权限模式可切换：走 host 官方的 /permission <preset> 命令（不用遗留 setPermission），带确认弹窗；切换后以投影回读为准，未刷新时明确写「已发送」而不是假装生效"
+    "权限面板区分 host 投影的「精确值」与「缓存提示」：只有 kind=sequenced 才当权威当前值，缓存提示会标注可能滞后；切换成功判定也只认权威值"
   ]
 }
