@@ -1,9 +1,9 @@
 {
-  "version": "0.10.104",
-  "versionCode": 1104,
-  "size": 1526048,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.104/dsh-pocket-0.10.104.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.104.apk",
-  "sha256": "4ad19d67c87838c7742bdf701d9fdb3e73f0eb0b1541316a2cfa2bbc2b315eda",
-  "notes": ["设置页：密钥类字段空值显示「未设置」而不是空白（宿主不回值时不再像坏字段）；规则排除 maxTokens 这类计数"]
+  "version": "0.10.105",
+  "versionCode": 1105,
+  "size": 1530144,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.105/dsh-pocket-0.10.105.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.105.apk",
+  "sha256": "ea61a5a54b4678a87851f3fa79c48abf7ca061c3aed8df23fadb0339e22489d0",
+  "notes": ["权限模式可切换：走 host 官方的 /permission <preset> 命令（不用遗留 setPermission），带确认弹窗；切换后以投影回读为准，未刷新时明确写「已发送」而不是假装生效"]
 }
