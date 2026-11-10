@@ -1,9 +1,9 @@
 {
-  "version": "0.10.99",
-  "versionCode": 1099,
+  "version": "0.10.100",
+  "versionCode": 1100,
   "size": 1526048,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.99/dsh-pocket-0.10.99.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.99.apk",
-  "sha256": "41b46c2a8a9c26e1aa88550ce3bfb41875be73d2ed7d364573414d8a2d7d02b6",
-  "notes": ["异步回包时序守卫可执行化（GuardedFetch）+ 4 例真并发单测：慢回包晚于新请求时被丢弃，换设备/换会话中途同样丢弃"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.100/dsh-pocket-0.10.100.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.100.apk",
+  "sha256": "fef07f0cd91c005324de68882dfeb21c08b896f1ccfb5a63bab3d634e1b532fc",
+  "notes": ["更新下载：总时限随进度续期（慢链路不再被固定 240 秒掐死），断点续传经截断式真机测试验证（Range 400K→800K→1.2M→余量，最终 sha 一致）"]
 }
