@@ -1,9 +1,9 @@
 {
-  "version": "0.10.101",
-  "versionCode": 1101,
+  "version": "0.10.102",
+  "versionCode": 1102,
   "size": 1526048,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.101/dsh-pocket-0.10.101.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.101.apk",
-  "sha256": "9bb77fd40f6957d3d8c107bd8d4af2bbbf070af78340dbf22a5730a0b36dab31",
-  "notes": ["搜索降级：host 关闭全文索引时说明原因与出路（标题结果不受影响），不再显示成搜索失败或没有命中"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.102/dsh-pocket-0.10.102.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.102.apk",
+  "sha256": "81fca0269cd617389bf7b3391487489bde210817e4097e60b20bf9fb529dd5ec",
+  "notes": ["设备级测试扩到 8 例：文件预览（PNG 解码 / PDF 首页渲染）与分享链路（FileProvider 回读字节一致、越界目录拒签）纳入受管 clean AVD 自动回归"]
 }
