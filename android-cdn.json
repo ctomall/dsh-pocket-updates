@@ -1,10 +1,10 @@
 {
-  "version": "0.10.110",
-  "versionCode": 1110,
+  "version": "0.10.111",
+  "versionCode": 1111,
   "size": 1534240,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.110.apk",
-  "sha256": "15f173f3c8fdc128a51ee383c55073c8f90e0eb9b498b0915f223295b8b7b0e6",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.111.apk",
+  "sha256": "68b6d003c5a0da4649ba3ce367cf9045857284af213f652a3d09b88b781a461f",
   "notes": [
-    "文案修正：权限面板里的反引号改为中文角括号（纯 Text 不渲染 Markdown，反引号会原样显示）"
+    "修复：空态里发的第一条消息不显示（会话创建后没订阅事件流，对话区一直停在加载中）"
   ]
 }
