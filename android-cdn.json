@@ -1,10 +1,10 @@
 {
-  "version": "0.10.121",
-  "versionCode": 1121,
+  "version": "0.10.122",
+  "versionCode": 1122,
   "size": 1554720,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.121.apk",
-  "sha256": "8a141e349484ed8703088794a6d59444a762ff8289b0591167c0dff48322e4c9",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.122.apk",
+  "sha256": "07d3c0810684a4fbbd5e725b34ac5d16e92f637d9c7fcfbcbd3321417c744e25",
   "notes": [
-    "上传 identity 回归（MockWebServer）、C1/凭据脱敏、Diag 结构化日志（生产默认无内容载荷）；180 例单测/独立复核"
+    "待办投影与 todo/write 实时更新；审批真实触发（拒绝/允许）、多语言 reason 与 callId 命令回查；205 例单测/独立复核"
   ]
 }
