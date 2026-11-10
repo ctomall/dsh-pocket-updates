@@ -1,9 +1,9 @@
 {
-  "version": "0.10.119",
-  "versionCode": 1119,
-  "size": 1546528,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.119/dsh-pocket-0.10.119.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.119.apk",
-  "sha256": "c4fefaab6461229789614e7061c610e817ae479057762c8a7557bc623bd8d281",
-  "notes": ["提问卡多题/多选/custom（EventCard 不再只取第一题）+ pendingQs timed 装载；157 例单测/独立复核"]
+  "version": "0.10.120",
+  "versionCode": 1120,
+  "size": 1554720,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.120/dsh-pocket-0.10.120.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.120.apk",
+  "sha256": "3a083bd8bb69ddfd2b2e9c147fbaa4f4239bd5546727fba2b8996dd36a5c7aeb",
+  "notes": ["设备级异步守卫/F2/页面重载：双服务器隔离、延迟回包丢弃、空态发送恢复；162 例单测/独立复核"]
 }
