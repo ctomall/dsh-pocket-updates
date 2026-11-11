@@ -1,10 +1,10 @@
 {
-  "version": "0.10.131",
-  "versionCode": 1131,
-  "size": 1616160,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.131.apk",
-  "sha256": "37d0528e079e994d50c181890e8ac62035f0ef233426efd1131cf1b50bb7753a",
+  "version": "0.10.132",
+  "versionCode": 1132,
+  "size": 1620256,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.132.apk",
+  "sha256": "b6a937e0140de089bbf374837ec4a995bee15df1cd2f410eec7ba42e747305b4",
   "notes": [
-    "图片入口改用系统照片选择器（PickVisualMedia/ImageOnly）：点图片打开手机图库，选图后回填附件；文件入口保持原选择器；382 例单测/独立复核/真机"
+    "抽屉重做（会话优先/常显搜索/齿轮设置/工具单行/设备单行对话框/更新下沉）；设置入口重规划（齿轮+顶栏菜单，More 去重）；设置页重做（本机卡+Host 分组筛选/默认收起/全部展开）；397 例单测/独立复核/真机"
   ]
 }
