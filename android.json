@@ -1,9 +1,9 @@
 {
-  "version": "0.10.132",
-  "versionCode": 1132,
+  "version": "0.10.133",
+  "versionCode": 1133,
   "size": 1620256,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.132/dsh-pocket-0.10.132.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.132.apk",
-  "sha256": "b6a937e0140de089bbf374837ec4a995bee15df1cd2f410eec7ba42e747305b4",
-  "notes": ["抽屉重做（会话优先/常显搜索/齿轮设置/工具单行/设备单行对话框/更新下沉）；设置入口重规划（齿轮+顶栏菜单，More 去重）；设置页重做（本机卡+Host 分组筛选/默认收起/全部展开）；397 例单测/独立复核/真机"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.133/dsh-pocket-0.10.133.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.133.apk",
+  "sha256": "5c857dbdf1bb1cccd7a681bf2f2592534ad0cbc020d17100f7ad489a70a83a3c",
+  "notes": ["R12 导航返回标准化 + 文件页重做（顶栏返回路由优先、页脚返回移除、工作区/SSH 双节头 36dp 刷新、无会话选择器）"]
 }
