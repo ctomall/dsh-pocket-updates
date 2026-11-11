@@ -1,10 +1,10 @@
 {
-  "version": "0.10.130",
-  "versionCode": 1130,
-  "size": 1612064,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.130.apk",
-  "sha256": "e17cb302850a8e6a31eb17deb3afcefccf7aa44b8414c388e9016083486c3b4d",
+  "version": "0.10.131",
+  "versionCode": 1131,
+  "size": 1616160,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.131.apk",
+  "sha256": "37d0528e079e994d50c181890e8ac62035f0ef233426efd1131cf1b50bb7753a",
   "notes": [
-    "子 Agent 目录补齐插件功能：树状目录 + 活动状态/真实时长/token 总量 + 嵌套展开（读取中/失败重试）+ 刷新；无控制面；379 例单测/独立复核/真机截图"
+    "图片入口改用系统照片选择器（PickVisualMedia/ImageOnly）：点图片打开手机图库，选图后回填附件；文件入口保持原选择器；382 例单测/独立复核/真机"
   ]
 }
