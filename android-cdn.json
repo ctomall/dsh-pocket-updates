@@ -1,10 +1,10 @@
 {
-  "version": "0.10.134",
-  "versionCode": 1134,
-  "size": 1624352,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.134.apk",
-  "sha256": "71176bfdd690d34f630ae779d15ce9ff687ded5068d79af1cef76ed8d0bd3b7a",
+  "version": "0.10.135",
+  "versionCode": 1135,
+  "size": 1632544,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.135.apk",
+  "sha256": "7d8d479621bf639e95f758bf2a0b4f9a2f8a76d57827a171e954968afd896f22",
   "notes": [
-    "R13 设置页重做：外观/连接/更新/高级/关于五节；Host 配置下沉子页；设备弹窗共用；更新/诊断归位；更多页退役"
+    "R14 优化按钮改走 host RPC：prompt-optimizer 直连流式面板（9 方向/替换/复制/重试/取消），不再发消息污染会话"
   ]
 }
