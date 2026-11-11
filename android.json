@@ -1,9 +1,9 @@
 {
-  "version": "0.10.137",
-  "versionCode": 1137,
+  "version": "0.10.138",
+  "versionCode": 1138,
   "size": 1644832,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.137/dsh-pocket-0.10.137.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.137.apk",
-  "sha256": "78259f0398a4277f8e4dabb40d907cf9c04b45c418be98a37c27be8f9199bb01",
-  "notes": ["R16 会话功能条与轨迹行升级：对话/轨迹行加父/子 Agent/目标/统计/待办/队列 chips；轨迹行状态/来源/时长/参数/结果，可展开复制"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.138/dsh-pocket-0.10.138.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.138.apk",
+  "sha256": "94d25bba7859fb142be202a42116c369fa905867f577606b3d290de5e4aa71cc",
+  "notes": ["R17 输入框下方五个快捷入口：思考（显示/隐藏思考过程）/搜索/技能/远程连接/浏览器；14dp 对齐"]
 }
