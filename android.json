@@ -1,9 +1,9 @@
 {
-  "version": "0.10.135",
-  "versionCode": 1135,
-  "size": 1632544,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.135/dsh-pocket-0.10.135.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.135.apk",
-  "sha256": "7d8d479621bf639e95f758bf2a0b4f9a2f8a76d57827a171e954968afd896f22",
-  "notes": ["R14 优化按钮改走 host RPC：prompt-optimizer 直连流式面板（9 方向/替换/复制/重试/取消），不再发消息污染会话"]
+  "version": "0.10.136",
+  "versionCode": 1136,
+  "size": 1636640,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.136/dsh-pocket-0.10.136.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.136.apk",
+  "sha256": "06f17d5c21990f1031e1ad356ad71b4aec8c72922d069b4d40899d2886b010a4",
+  "notes": ["R15 工具单入口：抽屉一个「工具」入口，7 个功能集中一页（2 列卡片）；新建工作区移到会话头；工具页底部直达设置"]
 }
