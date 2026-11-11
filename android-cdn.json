@@ -1,10 +1,10 @@
 {
-  "version": "0.10.123",
-  "versionCode": 1123,
-  "size": 1554720,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.123.apk",
-  "sha256": "0c981a18bc4edf7e7c1c1c958774adbb5c55bcf3106e2643924551e4c89e7877",
+  "version": "0.10.124",
+  "versionCode": 1124,
+  "size": 1567008,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.124.apk",
+  "sha256": "3057b4c55cad0d2880d12d755a8c18e18a9009b3389c2a3155e8ad3ee537d9f5",
   "notes": [
-    "紧急修复模型/权限面板 scope 混用（面板永久同步中、目录/权限不显示）；212 例单测/独立复核/真机切换验证"
+    "会话目标面板（投影优先、子 Agent 只读、创建/编辑/暂停/恢复/确认清除、stale 刷新）；237 例单测/独立复核/真机验证"
   ]
 }
