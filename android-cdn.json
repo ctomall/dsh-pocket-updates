@@ -1,10 +1,10 @@
 {
-  "version": "0.10.126",
-  "versionCode": 1126,
-  "size": 1579296,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.126.apk",
-  "sha256": "aa510325dccd5d0170c8fcda5f05a230505f5f16a77cc313c25820c86d651501",
+  "version": "0.10.127",
+  "versionCode": 1127,
+  "size": 1591584,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.127.apk",
+  "sha256": "f9e4e157c95f411fece21a359109f0288bc111bfdfe1cd5f29047f18ba199be3",
   "notes": [
-    "子 Agent 父子只读导航：子会话 subagent address 修复、父/子目录与返回、归档/缺失父/失败文案；287 例单测/独立复核/真机验证"
+    "消息反馈：赞/踩、7 分类与备注、版本 CAS/冲突刷新、同评级撤回；314 例单测/独立复核/真机验证"
   ]
 }
