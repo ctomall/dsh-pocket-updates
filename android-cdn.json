@@ -1,10 +1,10 @@
 {
-  "version": "0.10.136",
-  "versionCode": 1136,
-  "size": 1636640,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.136.apk",
-  "sha256": "06f17d5c21990f1031e1ad356ad71b4aec8c72922d069b4d40899d2886b010a4",
+  "version": "0.10.137",
+  "versionCode": 1137,
+  "size": 1644832,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.137.apk",
+  "sha256": "78259f0398a4277f8e4dabb40d907cf9c04b45c418be98a37c27be8f9199bb01",
   "notes": [
-    "R15 工具单入口：抽屉一个「工具」入口，7 个功能集中一页（2 列卡片）；新建工作区移到会话头；工具页底部直达设置"
+    "R16 会话功能条与轨迹行升级：对话/轨迹行加父/子 Agent/目标/统计/待办/队列 chips；轨迹行状态/来源/时长/参数/结果，可展开复制"
   ]
 }
