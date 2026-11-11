@@ -1,9 +1,9 @@
 {
-  "version": "0.10.129",
-  "versionCode": 1129,
-  "size": 1603872,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.129/dsh-pocket-0.10.129.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.129.apk",
-  "sha256": "3c2edef9ffebf352420749bdfb2b3438b207a8e2d4994b06459e8ce84854f6db",
-  "notes": ["对话流重做：卡片式助手回复（已完成本轮/展开全文/复制回复）、右对齐用户气泡、第 N 轮分隔与可折叠回合头（真实 turn/start→turn/end 时长）、工具卡结果回填与已编辑文件聚合、输入区上方统计胶囊；359 例单测/独立复核/真机截图"]
+  "version": "0.10.130",
+  "versionCode": 1130,
+  "size": 1612064,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.130/dsh-pocket-0.10.130.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.130.apk",
+  "sha256": "e17cb302850a8e6a31eb17deb3afcefccf7aa44b8414c388e9016083486c3b4d",
+  "notes": ["子 Agent 目录补齐插件功能：树状目录 + 活动状态/真实时长/token 总量 + 嵌套展开（读取中/失败重试）+ 刷新；无控制面；379 例单测/独立复核/真机截图"]
 }
