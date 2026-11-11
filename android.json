@@ -1,9 +1,9 @@
 {
-  "version": "0.10.124",
-  "versionCode": 1124,
-  "size": 1567008,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.124/dsh-pocket-0.10.124.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.124.apk",
-  "sha256": "3057b4c55cad0d2880d12d755a8c18e18a9009b3389c2a3155e8ad3ee537d9f5",
-  "notes": ["会话目标面板（投影优先、子 Agent 只读、创建/编辑/暂停/恢复/确认清除、stale 刷新）；237 例单测/独立复核/真机验证"]
+  "version": "0.10.125",
+  "versionCode": 1125,
+  "size": 1571104,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.125/dsh-pocket-0.10.125.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.125.apk",
+  "sha256": "3e328faaabe23ea11f483b2db52a3e29efaac91d6dc364b2e65f50dffaab08a6",
+  "notes": ["会话分叉：从当前进度/指定回合尾分叉，部分成功可打开，单飞行防重复；268 例单测/独立复核/真机验证"]
 }
