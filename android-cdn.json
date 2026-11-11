@@ -1,10 +1,10 @@
 {
-  "version": "0.10.133",
-  "versionCode": 1133,
-  "size": 1620256,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.133.apk",
-  "sha256": "5c857dbdf1bb1cccd7a681bf2f2592534ad0cbc020d17100f7ad489a70a83a3c",
+  "version": "0.10.134",
+  "versionCode": 1134,
+  "size": 1624352,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.134.apk",
+  "sha256": "71176bfdd690d34f630ae779d15ce9ff687ded5068d79af1cef76ed8d0bd3b7a",
   "notes": [
-    "R12 导航返回标准化 + 文件页重做（顶栏返回路由优先、页脚返回移除、工作区/SSH 双节头 36dp 刷新、无会话选择器）"
+    "R13 设置页重做：外观/连接/更新/高级/关于五节；Host 配置下沉子页；设备弹窗共用；更新/诊断归位；更多页退役"
   ]
 }
