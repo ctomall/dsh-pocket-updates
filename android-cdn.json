@@ -1,10 +1,10 @@
 {
-  "version": "0.10.125",
-  "versionCode": 1125,
-  "size": 1571104,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.125.apk",
-  "sha256": "3e328faaabe23ea11f483b2db52a3e29efaac91d6dc364b2e65f50dffaab08a6",
+  "version": "0.10.126",
+  "versionCode": 1126,
+  "size": 1579296,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.126.apk",
+  "sha256": "aa510325dccd5d0170c8fcda5f05a230505f5f16a77cc313c25820c86d651501",
   "notes": [
-    "会话分叉：从当前进度/指定回合尾分叉，部分成功可打开，单飞行防重复；268 例单测/独立复核/真机验证"
+    "子 Agent 父子只读导航：子会话 subagent address 修复、父/子目录与返回、归档/缺失父/失败文案；287 例单测/独立复核/真机验证"
   ]
 }
