@@ -1,10 +1,10 @@
 {
-  "version": "0.10.145",
-  "versionCode": 1145,
-  "size": 1665312,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.145.apk",
-  "sha256": "f263c2a46ba5e8d349ac1c8f53315206349e515c14c7be8329c7824cef7c840e",
+  "version": "0.10.146",
+  "versionCode": 1146,
+  "size": 1669408,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.146.apk",
+  "sha256": "4472b3c7f0253f30b3853ef0c0e84f6502ccde82093b0dfd3019c22e5961b647",
   "notes": [
-    "R23 思考翻译开关（Bing/Google 降级链、8000 字截断、失败可重试、隐私说明）"
+    "R24 对话流回顶/回底（含 Role.Button 无障碍修复）"
   ]
 }
