@@ -1,10 +1,10 @@
 {
-  "version": "0.10.143",
-  "versionCode": 1143,
-  "size": 1657120,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.143.apk",
-  "sha256": "ac062d69354d24ff3e6e656d2121909a7708a7499fd8d360829c9155ab8db3a6",
+  "version": "0.10.144",
+  "versionCode": 1144,
+  "size": 1661216,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.144.apk",
+  "sha256": "c93e4b6c4e8fce8b5d4ad3f8138a67f0235b5c26f7d5d586c581e6688557628a",
   "notes": [
-    "R21 主机配置列表统一（折叠头/键行/提示条；展开全部按全量分组）"
+    "R22 目标/任务/队列面板默认折叠（收起只留一行摘要，点开看正文）"
   ]
 }
