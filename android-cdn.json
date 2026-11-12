@@ -1,10 +1,10 @@
 {
-  "version": "0.10.138",
-  "versionCode": 1138,
-  "size": 1644832,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.138.apk",
-  "sha256": "94d25bba7859fb142be202a42116c369fa905867f577606b3d290de5e4aa71cc",
+  "version": "0.10.139",
+  "versionCode": 1139,
+  "size": 1648928,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.139.apk",
+  "sha256": "3e13bbd9800705ab53d1bf11bb18d31fef2b07a655c957165148f79ff46d4e8d",
   "notes": [
-    "R17 输入框下方五个快捷入口：思考（显示/隐藏思考过程）/搜索/技能/远程连接/浏览器；14dp 对齐"
+    "R18 左侧对话列表按工作区折叠/展开：▸/▾ 指示、组头点击切换、状态持久化，搜索态不折叠"
   ]
 }
