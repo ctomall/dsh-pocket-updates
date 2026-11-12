@@ -1,9 +1,9 @@
 {
-  "version": "0.10.140",
-  "versionCode": 1140,
-  "size": 1653024,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.140/dsh-pocket-0.10.140.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.140.apk",
-  "sha256": "76a6f76695f429835f10aae55d6fac08449d60d9896e906615f286d8f9b1841a",
-  "notes": ["R19 技能目录重设计：索引式只读目录（分组/搜索/复制/重试）"]
+  "version": "0.10.142",
+  "versionCode": 1142,
+  "size": 1657120,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.142/dsh-pocket-0.10.142.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.142.apk",
+  "sha256": "a5fa05e8f34dd68eb73343a77bc9c26120c9c324d3057dba5d63cf3d6ec78016",
+  "notes": ["R20 修复：富行动作独立成行（标题不再被挤断）、监控/IM 页头去重"]
 }
