@@ -1,10 +1,10 @@
 {
-  "version": "0.10.142",
-  "versionCode": 1142,
+  "version": "0.10.143",
+  "versionCode": 1143,
   "size": 1657120,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.142.apk",
-  "sha256": "a5fa05e8f34dd68eb73343a77bc9c26120c9c324d3057dba5d63cf3d6ec78016",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.143.apk",
+  "sha256": "ac062d69354d24ff3e6e656d2121909a7708a7499fd8d360829c9155ab8db3a6",
   "notes": [
-    "R20 修复：富行动作独立成行（标题不再被挤断）、监控/IM 页头去重"
+    "R21 主机配置列表统一（折叠头/键行/提示条；展开全部按全量分组）"
   ]
 }
