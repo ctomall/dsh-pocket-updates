@@ -1,9 +1,9 @@
 {
-  "version": "0.10.153",
-  "versionCode": 1153,
+  "version": "0.10.154",
+  "versionCode": 1154,
   "size": 1677600,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.153/dsh-pocket-0.10.153.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.153.apk",
-  "sha256": "5aba03669dec51289062bdd1c80c2eebdd7a1056793c0f331901f53183cda6f7",
-  "notes": ["P2 活动页：第 4 个 tab，运行中与最近会话"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.154/dsh-pocket-0.10.154.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.154.apk",
+  "sha256": "96a63b6a2e2dce5b1c85b7339b8822380e3250d13c3c4377ce0b2559e899db92",
+  "notes": ["P3 我的页：设备卡去重"]
 }
