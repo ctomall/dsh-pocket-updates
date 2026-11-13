@@ -1,10 +1,10 @@
 {
-  "version": "0.10.158",
-  "versionCode": 1158,
+  "version": "0.10.159",
+  "versionCode": 1159,
   "size": 1681696,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.158.apk",
-  "sha256": "18741123062c808c079447d69b3cff7c1833ed274fc05156331c6ad414b245a4",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.159.apk",
+  "sha256": "d3709dd6e90ca970fab4684698a524978001e7e0a0b637c06f7dc0797fd343d2",
   "notes": [
-    "工具调用分组：N 次工具调用一行，展开看每条"
+    "工具耗时 + 失败组展开 + 已编辑文件一行"
   ]
 }
