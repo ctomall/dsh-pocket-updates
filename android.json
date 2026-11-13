@@ -1,9 +1,9 @@
 {
-  "version": "0.10.165",
-  "versionCode": 1165,
+  "version": "0.10.166",
+  "versionCode": 1166,
   "size": 1685792,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.165/dsh-pocket-0.10.165.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.165.apk",
-  "sha256": "3f2f930807d6ee212842b5abd9dbcfd0747ecedc3fdaa4d6e0192c979f68e653",
-  "notes": ["修复回合标题模板：不再把整块数据 toString 打进对话流"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.166/dsh-pocket-0.10.166.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.166.apk",
+  "sha256": "4b2493cd19d67894a98387fafd2fdc13698f84aa76bec5ee141aea88cafc5d25",
+  "notes": ["修复：需要回答的选择框被折叠藏住"]
 }
