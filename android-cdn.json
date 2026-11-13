@@ -1,10 +1,10 @@
 {
-  "version": "0.10.152",
-  "versionCode": 1152,
-  "size": 1673504,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.152.apk",
-  "sha256": "099c01708ac46ec002e2cd1cf44dd955b118209a18f61c99b3ac72ec39e03267",
+  "version": "0.10.153",
+  "versionCode": 1153,
+  "size": 1677600,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.153.apk",
+  "sha256": "5aba03669dec51289062bdd1c80c2eebdd7a1056793c0f331901f53183cda6f7",
   "notes": [
-    "P1b 会话列表：委派子会话默认折叠，父会话优先"
+    "P2 活动页：第 4 个 tab，运行中与最近会话"
   ]
 }
