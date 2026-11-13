@@ -1,10 +1,10 @@
 {
-  "version": "0.10.164",
-  "versionCode": 1164,
+  "version": "0.10.165",
+  "versionCode": 1165,
   "size": 1685792,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.164.apk",
-  "sha256": "720afb7b726f9d538ffe4d3d3587f7721669c51a49a37323ababeb81f93834c1",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.165.apk",
+  "sha256": "3f2f930807d6ee212842b5abd9dbcfd0747ecedc3fdaa4d6e0192c979f68e653",
   "notes": [
-    "对话流卡片：运行步骤折叠，默认只看回合头+回复"
+    "修复回合标题模板：不再把整块数据 toString 打进对话流"
   ]
 }
