@@ -1,9 +1,9 @@
 {
-  "version": "0.10.147",
-  "versionCode": 1147,
-  "size": 1669408,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.147/dsh-pocket-0.10.147.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.147.apk",
-  "sha256": "84f47820023b476d3e6baed6b4e676b0fbc99c2a1a63455c13b6b9a1195075c9",
-  "notes": ["R25 主机配置组头去重 + 会话列表独立 180s 读超时（含加载/重试态）"]
+  "version": "0.10.149",
+  "versionCode": 1149,
+  "size": 1673504,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.149/dsh-pocket-0.10.149.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.149.apk",
+  "sha256": "78fb409582d518dc1d0e4fa83b0a7da7031b6242dd148416a6bf0bf3fb5e66ab",
+  "notes": ["设计修复：返回键、会话头分行、表格横滑、开始页中文化、标题清洗、数字口径、设备行去重、浮层自动收起"]
 }
