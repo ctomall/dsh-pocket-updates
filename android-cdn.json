@@ -1,10 +1,10 @@
 {
-  "version": "0.10.155",
-  "versionCode": 1155,
+  "version": "0.10.156",
+  "versionCode": 1156,
   "size": 1677600,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.155.apk",
-  "sha256": "e7dc8b6f458cf21e5f4f9151cb89b49b3a9c5b8a2d053f1bb656d00e3a8f3f19",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.156.apk",
+  "sha256": "074e39ef2303e2a76c50a6a38fa24fcda8236ac82a31ba040aa1aefa74947dcd",
   "notes": [
-    "会话页重排：单行头/面板列表/一行状态/输入区瘦身"
+    "多图上传：一次最多 5 张，逐张预览/删除/回显"
   ]
 }
