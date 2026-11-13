@@ -1,9 +1,9 @@
 {
-  "version": "0.10.160",
-  "versionCode": 1160,
+  "version": "0.10.161",
+  "versionCode": 1161,
   "size": 1685792,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.160/dsh-pocket-0.10.160.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.160.apk",
-  "sha256": "7cb448e1c91f056bcd26a0bf0e9f9a16888d03d2383bce0c65be4265d143e451",
-  "notes": ["活动页等你处理：按会话聚合待办与待确认问题"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.161/dsh-pocket-0.10.161.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.161.apk",
+  "sha256": "38366853de433f3e82e13d8ab41d057aab4207d615009133004c32c5f5e2c757",
+  "notes": ["优化按钮图标化 + 轻回合头 + 活动页发送失败"]
 }
