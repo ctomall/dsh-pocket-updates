@@ -1,9 +1,9 @@
 {
-  "version": "0.10.166",
-  "versionCode": 1166,
+  "version": "0.10.167",
+  "versionCode": 1167,
   "size": 1685792,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.166/dsh-pocket-0.10.166.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.166.apk",
-  "sha256": "4b2493cd19d67894a98387fafd2fdc13698f84aa76bec5ee141aea88cafc5d25",
-  "notes": ["修复：需要回答的选择框被折叠藏住"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.167/dsh-pocket-0.10.167.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.167.apk",
+  "sha256": "942e991bc4ccd563fb75f84c3f6fbffbeab7c4f496d1dce598e18ca3e6b11b96",
+  "notes": ["会话列表冷启动走本地缓存 + 刷新中提示"]
 }
