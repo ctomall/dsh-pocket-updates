@@ -1,10 +1,10 @@
 {
-  "version": "0.10.150",
-  "versionCode": 1150,
-  "size": 1669408,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.150.apk",
-  "sha256": "5f20671a87aacbb907a3ea41eb1b976d89162eb95d4a88c582e05aaf50f5a888",
+  "version": "0.10.151",
+  "versionCode": 1151,
+  "size": 1673504,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.151.apk",
+  "sha256": "a3ed3762635270ad9ec97849be2f3369a91251e01017bd4db6db73900dfa23c7",
   "notes": [
-    "P0 结构与尺度：统一底部面板容器、48dp 触控、启动直达上次设备、会话页顶栏收敛"
+    "P1a 底部导航：会话/工作台/我的三 tab，抽屉退役，会话详情全屏"
   ]
 }
