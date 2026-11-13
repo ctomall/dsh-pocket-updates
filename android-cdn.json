@@ -1,10 +1,10 @@
 {
-  "version": "0.10.159",
-  "versionCode": 1159,
-  "size": 1681696,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.159.apk",
-  "sha256": "d3709dd6e90ca970fab4684698a524978001e7e0a0b637c06f7dc0797fd343d2",
+  "version": "0.10.160",
+  "versionCode": 1160,
+  "size": 1685792,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.160.apk",
+  "sha256": "7cb448e1c91f056bcd26a0bf0e9f9a16888d03d2383bce0c65be4265d143e451",
   "notes": [
-    "工具耗时 + 失败组展开 + 已编辑文件一行"
+    "活动页等你处理：按会话聚合待办与待确认问题"
   ]
 }
