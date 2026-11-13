@@ -1,10 +1,10 @@
 {
-  "version": "0.10.146",
-  "versionCode": 1146,
+  "version": "0.10.147",
+  "versionCode": 1147,
   "size": 1669408,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.146.apk",
-  "sha256": "4472b3c7f0253f30b3853ef0c0e84f6502ccde82093b0dfd3019c22e5961b647",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.147.apk",
+  "sha256": "84f47820023b476d3e6baed6b4e676b0fbc99c2a1a63455c13b6b9a1195075c9",
   "notes": [
-    "R24 对话流回顶/回底（含 Role.Button 无障碍修复）"
+    "R25 主机配置组头去重 + 会话列表独立 180s 读超时（含加载/重试态）"
   ]
 }
