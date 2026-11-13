@@ -1,9 +1,9 @@
 {
-  "version": "0.10.163",
-  "versionCode": 1163,
+  "version": "0.10.164",
+  "versionCode": 1164,
   "size": 1685792,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.163/dsh-pocket-0.10.163.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.163.apk",
-  "sha256": "fe097558db97eec95652833a5bb9c494b2b7bc4c3b3c0e17213aeae0386b8f4c",
-  "notes": ["会话流美化：回合细轨 + 每轮一条思考 + 收紧行距"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.164/dsh-pocket-0.10.164.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.164.apk",
+  "sha256": "720afb7b726f9d538ffe4d3d3587f7721669c51a49a37323ababeb81f93834c1",
+  "notes": ["对话流卡片：运行步骤折叠，默认只看回合头+回复"]
 }
