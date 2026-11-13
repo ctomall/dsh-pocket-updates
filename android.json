@@ -1,9 +1,9 @@
 {
-  "version": "0.10.157",
-  "versionCode": 1157,
+  "version": "0.10.158",
+  "versionCode": 1158,
   "size": 1681696,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.157/dsh-pocket-0.10.157.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.157.apk",
-  "sha256": "2f83208e3dfcbe30faf408de734a24e4db603057b407054854b9d5fbae14aff7",
-  "notes": ["工具卡重做：一行摘要 + 原始数据 sheet"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.158/dsh-pocket-0.10.158.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.158.apk",
+  "sha256": "18741123062c808c079447d69b3cff7c1833ed274fc05156331c6ad414b245a4",
+  "notes": ["工具调用分组：N 次工具调用一行，展开看每条"]
 }
