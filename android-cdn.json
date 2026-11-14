@@ -1,10 +1,10 @@
 {
-  "version": "0.10.174",
-  "versionCode": 1174,
+  "version": "0.10.175",
+  "versionCode": 1175,
   "size": 1689888,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.174.apk",
-  "sha256": "513d4dc7d41445735bd31d20215ce1220cc8acbacabc0b0e44d74fcd7dc3b0b5",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.175.apk",
+  "sha256": "1dbf711ca3917092a20b9428125bf84e4d91431091e226a2b5af4cd4bd961a79",
   "notes": [
-    "会话列表二版：路径短名 + 紧凑标题行"
+    "会话列表对齐目录语言"
   ]
 }
