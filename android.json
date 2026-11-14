@@ -1,9 +1,9 @@
 {
-  "version": "0.10.202",
-  "versionCode": 1202,
+  "version": "0.10.203",
+  "versionCode": 1203,
   "size": 1722656,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.202/dsh-pocket-0.10.202.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.202.apk",
-  "sha256": "cfd9c006f96d58e56add91505d81246dc5e7dc46572e0d622a32aa607dbc10c0",
-  "notes": ["轨迹文本搜索"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.203/dsh-pocket-0.10.203.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.203.apk",
+  "sha256": "77b2da59f4ec18c4a2a9d815f6f4c447a11877380469b9106cecd26ad19125dd",
+  "notes": ["轨迹标慢调用"]
 }
