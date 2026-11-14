@@ -1,9 +1,9 @@
 {
-  "version": "0.10.169",
-  "versionCode": 1169,
+  "version": "0.10.170",
+  "versionCode": 1170,
   "size": 1685792,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.169/dsh-pocket-0.10.169.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.169.apk",
-  "sha256": "101b81ae6ccb704954ab53ea84d093130f48edf1effc669df51ed0308886708e",
-  "notes": ["活动页跨会话审批：等你处理里显示等待审批"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.170/dsh-pocket-0.10.170.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.170.apk",
+  "sha256": "c3090abad15b1d0ae3d8e5cbf43649bf98b359e37eecbf2d7325932acf22862c",
+  "notes": ["会话状态通知：等审批/等回答/本轮完成"]
 }
