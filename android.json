@@ -1,9 +1,9 @@
 {
-  "version": "0.10.193",
-  "versionCode": 1193,
+  "version": "0.10.194",
+  "versionCode": 1194,
   "size": 1706272,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.193/dsh-pocket-0.10.193.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.193.apk",
-  "sha256": "512706209ddf290d667f277fa6619d96635cdb9a122b5c90221ceb2c3ecd7db9",
-  "notes": ["等你处理排序与进度"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.194/dsh-pocket-0.10.194.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.194.apk",
+  "sha256": "b783c71b5d7327edd5e144735c6f4a66167e8dfb541e5c3fe377035c014434c6",
+  "notes": ["去掉诊断日志"]
 }
