@@ -1,9 +1,9 @@
 {
-  "version": "0.10.181",
-  "versionCode": 1181,
-  "size": 1698080,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.181/dsh-pocket-0.10.181.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.181.apk",
-  "sha256": "2216795302b207d2aadb7badc3ac7cb6de2cfa49d4ed57e735f0ad5719ac9fe3",
-  "notes": ["对话里能看图：全屏查看 + 工具图片"]
+  "version": "0.10.182",
+  "versionCode": 1182,
+  "size": 1702176,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.182/dsh-pocket-0.10.182.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.182.apk",
+  "sha256": "3504a3998553ca69469abc3637ec8fcd72f891a2a74f02d514cbbbe688a97401",
+  "notes": ["图片以附件形式挂在对话尾部"]
 }
