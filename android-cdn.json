@@ -1,10 +1,10 @@
 {
-  "version": "0.10.172",
-  "versionCode": 1172,
+  "version": "0.10.173",
+  "versionCode": 1173,
   "size": 1689888,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.172.apk",
-  "sha256": "44fe36956f06e107f481353f396e33e702c4ee135df7c416c176bb46ffe7b0bb",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.173.apk",
+  "sha256": "59c774e247b8745de201f8f2ca867e2c7d9fb98b8f1883a2f3a25f6b9a666d65",
   "notes": [
-    "问答/审批改成悬浮抽屉"
+    "会话列表重设计：状态点 + 等我的排前"
   ]
 }
