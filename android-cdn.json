@@ -1,10 +1,10 @@
 {
-  "version": "0.10.179",
-  "versionCode": 1179,
-  "size": 1693984,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.179.apk",
-  "sha256": "f435ea077752f06a41ec29ae83ec1ca96b99b3b0deb0af418d84111f95803911",
+  "version": "0.10.180",
+  "versionCode": 1180,
+  "size": 1698080,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.180.apk",
+  "sha256": "68ac0ee31d322c5d93bdd41da1a1690b3ff78f72023791a7bfcfc194460d36a6",
   "notes": [
-    "对话页：时间线步骤/浅色气泡/表格不裁切"
+    "会话列表摘要预览 + 修复加载更早"
   ]
 }
