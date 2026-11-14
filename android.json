@@ -1,9 +1,9 @@
 {
-  "version": "0.10.175",
-  "versionCode": 1175,
-  "size": 1689888,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.175/dsh-pocket-0.10.175.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.175.apk",
-  "sha256": "1dbf711ca3917092a20b9428125bf84e4d91431091e226a2b5af4cd4bd961a79",
-  "notes": ["会话列表对齐目录语言"]
+  "version": "0.10.176",
+  "versionCode": 1176,
+  "size": 1693984,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.176/dsh-pocket-0.10.176.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.176.apk",
+  "sha256": "4991a777c30af9193c7dc2a67a9eea2b72f871b02d7c02ed5346497d9dac375a",
+  "notes": ["会话列表：扁平列表 + 路径副标题"]
 }
