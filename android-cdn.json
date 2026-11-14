@@ -1,10 +1,10 @@
 {
-  "version": "0.10.167",
-  "versionCode": 1167,
+  "version": "0.10.169",
+  "versionCode": 1169,
   "size": 1685792,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.167.apk",
-  "sha256": "942e991bc4ccd563fb75f84c3f6fbffbeab7c4f496d1dce598e18ca3e6b11b96",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.169.apk",
+  "sha256": "101b81ae6ccb704954ab53ea84d093130f48edf1effc669df51ed0308886708e",
   "notes": [
-    "会话列表冷启动走本地缓存 + 刷新中提示"
+    "活动页跨会话审批：等你处理里显示等待审批"
   ]
 }
