@@ -1,10 +1,10 @@
 {
-  "version": "0.10.173",
-  "versionCode": 1173,
+  "version": "0.10.174",
+  "versionCode": 1174,
   "size": 1689888,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.173.apk",
-  "sha256": "59c774e247b8745de201f8f2ca867e2c7d9fb98b8f1883a2f3a25f6b9a666d65",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.174.apk",
+  "sha256": "513d4dc7d41445735bd31d20215ce1220cc8acbacabc0b0e44d74fcd7dc3b0b5",
   "notes": [
-    "会话列表重设计：状态点 + 等我的排前"
+    "会话列表二版：路径短名 + 紧凑标题行"
   ]
 }
