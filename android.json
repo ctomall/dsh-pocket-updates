@@ -1,9 +1,9 @@
 {
-  "version": "0.10.199",
-  "versionCode": 1199,
+  "version": "0.10.200",
+  "versionCode": 1200,
   "size": 1718560,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.199/dsh-pocket-0.10.199.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.199.apk",
-  "sha256": "ba08bd816b0402cb1359c9e29343fef6856476d11683dd8c6d2969869cf0877c",
-  "notes": ["统计面板每轮耗时"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.200/dsh-pocket-0.10.200.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.200.apk",
+  "sha256": "40bf48bf130635fe02b85822b08d2ec778cda1683913ed0ca34ca7233c74cefb",
+  "notes": ["统计面板最慢工具"]
 }
