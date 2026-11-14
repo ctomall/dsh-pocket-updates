@@ -1,9 +1,9 @@
 {
-  "version": "0.10.195",
-  "versionCode": 1195,
-  "size": 1706272,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.195/dsh-pocket-0.10.195.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.195.apk",
-  "sha256": "aba721ac5604a0291bd847ac6353b4f24078ca6554484e0b0df4fe8732c6c9f8",
-  "notes": ["长按引用消息"]
+  "version": "0.10.196",
+  "versionCode": 1196,
+  "size": 1710368,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.196/dsh-pocket-0.10.196.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.196.apk",
+  "sha256": "30aa2652719f9b487d3ba51e8ce244ab6d1de590a5250126828e475614ecd134",
+  "notes": ["草稿按会话保存"]
 }
