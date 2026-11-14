@@ -1,9 +1,9 @@
 {
-  "version": "0.10.183",
-  "versionCode": 1183,
-  "size": 1698080,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.183/dsh-pocket-0.10.183.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.183.apk",
-  "sha256": "cad6a9ec51655fd2e73a75b883dbc59fb31ce0df6bf84517499d921acd2f2c9e",
-  "notes": ["文件也做成附件卡"]
+  "version": "0.10.184",
+  "versionCode": 1184,
+  "size": 1702176,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.184/dsh-pocket-0.10.184.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.184.apk",
+  "sha256": "07c3c2c33f4ad82a5bef16e6bc72f02726216db1a3b7c8ca2c39b4c6d83fd4c0",
+  "notes": ["附件可预览 + 气泡附件卡"]
 }
