@@ -1,10 +1,10 @@
 {
-  "version": "0.10.186",
-  "versionCode": 1186,
+  "version": "0.10.187",
+  "versionCode": 1187,
   "size": 1702176,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.186.apk",
-  "sha256": "4202503939405a07a065e29b6d7af58a873f248060b91f836f09df23c9560771",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.187.apk",
+  "sha256": "6025f2f969b5c2a5f85efd21ac339c30a897bd3fbc9ae062cc3566847ea9fc6f",
   "notes": [
-    "附件去重 + 失败原因可见"
+    "会话摘要跨重启缓存"
   ]
 }
