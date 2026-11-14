@@ -1,9 +1,9 @@
 {
-  "version": "0.10.177",
-  "versionCode": 1177,
+  "version": "0.10.178",
+  "versionCode": 1178,
   "size": 1693984,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.177/dsh-pocket-0.10.177.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.177.apk",
-  "sha256": "fd5f97ee3df8dcdb49c8c9c42a1a2d6d45989fc6c2da2c84e256ec0ceec4356f",
-  "notes": ["会话列表分类 + 副标题改短名状态"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.178/dsh-pocket-0.10.178.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.178.apk",
+  "sha256": "e87a523b77dd438571e32ff75f96d2fb0abae9001971a95bc624d1a16e04dc37",
+  "notes": ["对话页去卡片化 + 按天分隔"]
 }
