@@ -1,10 +1,10 @@
 {
-  "version": "0.10.189",
-  "versionCode": 1189,
-  "size": 1702176,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.189.apk",
-  "sha256": "b3e015741a99b0eba72a73a4f8706336620d68733f326898e6a595693367ee79",
+  "version": "0.10.190",
+  "versionCode": 1190,
+  "size": 1706272,
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.190.apk",
+  "sha256": "0c7ddb419ecec47a80120211766ba24f745783f6a966fb8059bc652ec54628b8",
   "notes": [
-    "活动页显示会话摘要"
+    "我的页诊断信息卡"
   ]
 }
