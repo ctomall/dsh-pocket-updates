@@ -1,10 +1,10 @@
 {
-  "version": "0.10.180",
-  "versionCode": 1180,
+  "version": "0.10.181",
+  "versionCode": 1181,
   "size": 1698080,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.180.apk",
-  "sha256": "68ac0ee31d322c5d93bdd41da1a1690b3ff78f72023791a7bfcfc194460d36a6",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.181.apk",
+  "sha256": "2216795302b207d2aadb7badc3ac7cb6de2cfa49d4ed57e735f0ad5719ac9fe3",
   "notes": [
-    "会话列表摘要预览 + 修复加载更早"
+    "对话里能看图：全屏查看 + 工具图片"
   ]
 }
