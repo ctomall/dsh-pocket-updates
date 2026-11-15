@@ -1,9 +1,9 @@
 {
-  "version": "0.10.217",
-  "versionCode": 1217,
+  "version": "0.10.218",
+  "versionCode": 1218,
   "size": 1726752,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.217/dsh-pocket-0.10.217.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.217.apk",
-  "sha256": "dab5d2212ec36be90e73acf0e15fa12e83913d2e061b8c3316e87691ccdcdd20",
-  "notes": ["分组模式全部恢复"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.218/dsh-pocket-0.10.218.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.218.apk",
+  "sha256": "8e5e4ea41faf976b1fab680947c6294141b56bb24207e20031a983134658c6b1",
+  "notes": ["归档分组状态保持"]
 }
