@@ -1,9 +1,9 @@
 {
-  "version": "0.10.214",
-  "versionCode": 1214,
+  "version": "0.10.215",
+  "versionCode": 1215,
   "size": 1726752,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.214/dsh-pocket-0.10.214.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.214.apk",
-  "sha256": "8c87efcc0842ec4714c8ea4b91cdfee254e9b5d666e7b440684befbac333548f",
-  "notes": ["分组模式也显示归档"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.215/dsh-pocket-0.10.215.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.215.apk",
+  "sha256": "2098641cd17d7479bdd65a7863adcc0c014a171018a21728a02f98177f771d69",
+  "notes": ["分组模式置顶组"]
 }
