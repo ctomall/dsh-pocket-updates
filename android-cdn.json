@@ -1,10 +1,10 @@
 {
-  "version": "0.10.207",
-  "versionCode": 1207,
+  "version": "0.10.208",
+  "versionCode": 1208,
   "size": 1722656,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.207.apk",
-  "sha256": "30c361852fae569caf63de8b2c26d50613078af7c243ad62de35cd8442e3e741",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.208.apk",
+  "sha256": "7bf4f06a79e3beadcfb8db38fcba53f5bcc6e5548474f11b16c53f7f518fb2a4",
   "notes": [
-    "归档可找回"
+    "归档一键恢复"
   ]
 }
