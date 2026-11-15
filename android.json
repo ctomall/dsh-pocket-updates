@@ -1,9 +1,9 @@
 {
-  "version": "0.10.208",
-  "versionCode": 1208,
+  "version": "0.10.209",
+  "versionCode": 1209,
   "size": 1722656,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.208/dsh-pocket-0.10.208.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.208.apk",
-  "sha256": "7bf4f06a79e3beadcfb8db38fcba53f5bcc6e5548474f11b16c53f7f518fb2a4",
-  "notes": ["归档一键恢复"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.209/dsh-pocket-0.10.209.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.209.apk",
+  "sha256": "2a410649e6d13eb3e46341e5397d797cc76b22a4a6fd58fbcbfc3c7c35e540ee",
+  "notes": ["复制会话 ID"]
 }
