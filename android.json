@@ -1,9 +1,9 @@
 {
-  "version": "0.10.205",
-  "versionCode": 1205,
+  "version": "0.10.206",
+  "versionCode": 1206,
   "size": 1722656,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.205/dsh-pocket-0.10.205.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.205.apk",
-  "sha256": "221024036ddfeeeb6f046341c73995f93546c7f680519fd8e59150ddb996d653",
-  "notes": ["轨迹去重"]
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.206/dsh-pocket-0.10.206.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.206.apk",
+  "sha256": "29cbdf5ee1bd0bf5c33c9102cfc26f5caf2d411a57d6fe8427425599efeb6bfe",
+  "notes": ["修复置顶无效"]
 }
