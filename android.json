@@ -1,9 +1,9 @@
 {
-  "version": "0.10.212",
-  "versionCode": 1212,
-  "size": 1722656,
-  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.212/dsh-pocket-0.10.212.apk",
-  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.212.apk",
-  "sha256": "0f92bd6e5ca27a2b37b7323fcc22a6ca72da9604ea2df5d136ed696273478392",
-  "notes": ["复制标题与路径"]
+  "version": "0.10.213",
+  "versionCode": 1213,
+  "size": 1726752,
+  "url": "https://github.com/ctomall/dsh-pocket-updates/releases/download/v0.10.213/dsh-pocket-0.10.213.apk",
+  "fallback": "https://dsh.ila3.top/demo/dsh-pocket/dsh-pocket-0.10.213.apk",
+  "sha256": "572fe545ec0c4576f90adafd8a877bea4203d924de2700229e6b80ef6b389fb0",
+  "notes": ["会话菜单二级化"]
 }
