@@ -1,10 +1,10 @@
 {
-  "version": "0.10.213",
-  "versionCode": 1213,
+  "version": "0.10.214",
+  "versionCode": 1214,
   "size": 1726752,
-  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.213.apk",
-  "sha256": "572fe545ec0c4576f90adafd8a877bea4203d924de2700229e6b80ef6b389fb0",
+  "url": "https://cdn.jsdelivr.net/gh/ctomall/dsh-pocket-updates@main/dsh-pocket-0.10.214.apk",
+  "sha256": "8c87efcc0842ec4714c8ea4b91cdfee254e9b5d666e7b440684befbac333548f",
   "notes": [
-    "会话菜单二级化"
+    "分组模式也显示归档"
   ]
 }
